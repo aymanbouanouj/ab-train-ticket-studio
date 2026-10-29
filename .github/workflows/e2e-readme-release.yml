@@ -1,4 +1,4 @@
-# Release verification rerun: stale footer assertions and async booking completion fixed.
+# Release verification: PNG absence check recognizes the Vite SPA fallback.
 # Runs when this workflow file is first added/changed; otherwise manual only.
 # Captured images are real Playwright screenshots of synthetic, local demo test runs.
 name: Release browser verification and README screenshots

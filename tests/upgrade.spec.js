@@ -81,8 +81,12 @@ test("Navigation disclosure, footer assets and translated layouts across require
   ).toBe(true);
   for (const name of ["github.svg", "linkedin.svg"])
     expect((await page.request.get(`/icons/${name}`)).ok()).toBe(true);
-  // The third-party Beacons raster is deliberately excluded from publication.
-  expect((await page.request.get("/icons/beacons.png")).status()).toBe(404);
+  // The Beacons PNG is excluded. Vite preview may serve its HTML SPA fallback
+  // with HTTP 200 for an unknown path; inspect the response bytes instead.
+  const missingRaster = await page.request.get("/icons/beacons.png");
+  const pngSignature = Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]);
+  const bytes = await missingRaster.body();
+  expect(bytes.subarray(0, 8).equals(pngSignature)).toBe(false);
   await expect(page.locator('footer a[href*="blogspot"]')).toHaveCount(0);
   await page.setViewportSize({ width: 390, height: 844 });
   await page.locator("#menu-toggle").click();
