@@ -10,6 +10,5 @@ export const siteConfig = {
   github: "https://github.com/aymanbouanouj",
   linkedin: "https://www.linkedin.com/in/aymanbounaouj/",
   beacons: "https://beacons.ai/aymanbounaouj",
-  blog: "https://aymanbounaouj.blogspot.com/",
   location: "Morocco",
 };
