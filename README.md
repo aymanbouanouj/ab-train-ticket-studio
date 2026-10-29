@@ -41,6 +41,28 @@ Rather than presenting static screens, the project lets visitors explore a compl
 | **Responsive, accessible interface** | Use light/dark themes, mobile and desktop layouts, keyboard-operable selectors, focus feedback and reduced-motion preferences. |
 | **Browser-local history** | Reopen saved journeys in the same browser without creating an account or connecting to a booking server. |
 
+## Screenshots
+
+Authentic screenshots captured by Playwright against a local production build using **synthetic demo data**.
+
+**Desktop — journey planner**
+
+![AB TRAIN desktop journey planning experience](media/readme/desktop-journey.png)
+
+<details>
+<summary><strong>Mobile — responsive journey search</strong></summary>
+
+![AB TRAIN mobile journey planning experience](media/readme/mobile-journey.png)
+
+</details>
+
+<details>
+<summary><strong>Sample ticket and QR</strong></summary>
+
+![Sample AB TRAIN ticket with QR; not valid for travel](media/readme/ticket-preview.png)
+
+</details>
+
 ## Try the live experience
 
 **[Open AB TRAIN →](https://aymanbouanouj.github.io/ab-train-ticket-studio/)**
