@@ -54,7 +54,7 @@ const selection = {
   travelClass: "second",
   coach: 3,
   seat,
-  passenger: "Ayman El Amrani",
+  passenger: "Ayman Bounaouj",
 };
 const booking = () => createBooking(selection);
 test("All four translation catalogues contain every key and matching placeholders", () => {
@@ -319,7 +319,7 @@ test("Fares match explicit configurable rules", () => {
   assert.throws(() => fare(service, "third"));
 });
 test("Names accept Unicode and long names but reject unsafe or invalid text", () => {
-  assert.equal(validatePassenger("  Ayman   El Amrani  "), "Ayman El Amrani");
+  assert.equal(validatePassenger("  Ayman   Bounaouj  "), "Ayman Bounaouj");
   assert.equal(validatePassenger("أحمد العلوي"), "أحمد العلوي");
   assert.ok(validatePassenger("Éléonore O’Connor-Abdelrahman"));
   assert.ok(validatePassenger("A".repeat(100)));

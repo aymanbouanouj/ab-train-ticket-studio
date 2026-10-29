@@ -22,7 +22,7 @@ async function toSeat(page) {
   ).toBeVisible();
   await page.getByRole("button", { name: "Select Train" }).first().click();
 }
-async function book(page, name = "Ayman El Amrani") {
+async function book(page, name = "Ayman Bounaouj") {
   await toSeat(page);
   const seat = page.locator(".seat:not([disabled])").first();
   const number = await seat.getAttribute("data-seat");
