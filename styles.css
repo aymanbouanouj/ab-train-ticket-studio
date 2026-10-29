@@ -2216,9 +2216,6 @@ html[lang="ar"] .footer-grid {
 .social-linkedin {
   --mark: url("/icons/linkedin.svg");
 }
-.social-blogger {
-  --mark: url("/icons/blogger.svg");
-}
 .external-arrow {
   color: var(--muted);
   font-size: 12px;
