@@ -6,7 +6,7 @@ AB TRAIN is an independent, browser-local railway booking demonstration by Ayman
 
 AB TRAIN is an independent demonstration project. It does not provide official ONCF bookings, live schedules or official fares.
 
-Project licensing is pending owner selection. Public source visibility does not grant a project-wide license for reuse.
+**Licensing:** Original AB TRAIN software is licensed under [GNU AGPL v3.0 only](LICENSE); original AB TRAIN branding and separately identified artwork remain **All Rights Reserved**. External photographs, icons, geographic datasets and dependencies retain their own terms. See [Copyright & licensing scope](COPYRIGHT.md) and [Third-party notices](THIRD_PARTY_NOTICES.md). AGPL permits reuse and modification under its conditions, including commercial use; it is not a no-copy license.
 
 ## Requirements and setup
 
@@ -79,7 +79,7 @@ See [Geographic data provenance](docs/GEOGRAPHIC-DATA-PROVENANCE.md) for source 
 
 See [Publication provenance](docs/PUBLICATION-PROVENANCE.md) for the owner assertion covering original AB TRAIN artwork and decorative strips. The third-party Beacons raster is excluded; its profile remains a text link. Third-party photo and icon notices remain applicable.
 
-The owner will review and select project licensing later. No LICENSE file has been created, no license is selected on the owner's behalf, and the project is not permanently classified as proprietary or open-source. Existing third-party notices, licenses and attribution requirements continue to apply independently.
+**Software license:** [GNU Affero General Public License v3.0 only (AGPL-3.0-only)](LICENSE) for original software source, tests and build scripts. This is an open-source copyleft license: compliant copying, modification, redistribution and commercial use are allowed. **Separate original brand/logo/artwork rights:** Copyright © 2026 Ayman Bounaouj. All rights reserved; these independent assets are not offered under the software license. See [COPYRIGHT.md](COPYRIGHT.md) for the explicit scope and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for external licenses and attributions. No project-wide relicense of third-party content is implied.
 
 ## Included maintenance tools
 

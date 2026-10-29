@@ -13,4 +13,4 @@ The independently sourced Beacons raster is excluded from both source and deploy
 
 Destination photographs retain their individual Wikimedia/Creative Commons authors, source links, change notices and license links in `public/fidelity/credits.html` and `image-credits.json`. Simple Icons notices remain intact. Existing data and third-party notices continue to apply.
 
-Project licensing remains pending owner selection. Public source visibility does not grant a project-wide license for reuse. No software license has been selected or added.
+The owner has since selected AGPL-3.0-only for original AB TRAIN software source. See the root LICENSE for its unmodified terms and COPYRIGHT.md for the explicit scope. Owner-controlled original branding and separate artwork remain All Rights Reserved, subject to applicable law. Third-party works keep their existing separate licenses, as detailed in THIRD_PARTY_NOTICES.md.

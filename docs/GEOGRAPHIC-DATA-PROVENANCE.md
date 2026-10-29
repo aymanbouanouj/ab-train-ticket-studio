@@ -71,4 +71,4 @@ No source data, station ID, alias, evidence, schedule or geographic record was m
 
 Included scripts support the existing local index audit and GeoNames refresh from a separately obtained public dump. Full HCP PDF/workbook reconstruction and source-download working files are outside the publication candidate. Do not run import/audit writers as part of an automatic publication check without a separate data-review task.
 
-This data-specific attribution does not select a license for AB TRAIN code or grant rights over third-party images, trademarks or libraries. The owner’s project-license decision and unresolved asset redistribution rights remain pending.
+This data-specific attribution does not override external source terms or grant rights over third-party images, trademarks or libraries. Original AB TRAIN software source is licensed under AGPL-3.0-only (root LICENSE); original AB TRAIN branding and separate artwork have rights reserved (COPYRIGHT.md). Individual data, photo, icon and library terms are recorded in THIRD_PARTY_NOTICES.md. Publisher-side source restrictions remain applicable.
