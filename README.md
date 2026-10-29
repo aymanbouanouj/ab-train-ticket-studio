@@ -1,90 +1,163 @@
-# AB TRAIN — Ticket Studio
+<div align="center">
 
-[Live demo](https://aymanbouanouj.github.io/ab-train-ticket-studio/) · [Deployment checks](https://github.com/aymanbouanouj/ab-train-ticket-studio/actions/workflows/deploy-pages.yml)
+<img src="public/brand/approved/og-image-1200x630.jpg" alt="AB TRAIN — independent Moroccan railway booking and sample-ticket studio" width="860">
 
-AB TRAIN is an independent, browser-local railway booking demonstration by Ayman Bounaouj. It is not affiliated with ONCF and does not issue official reservations, take payments or provide live railway prices, schedules or availability. Every exported ticket is clearly marked SAMPLE / NOT VALID FOR TRAVEL in the selected language.
+# AB TRAIN
+### Train Booking & Ticket Studio
 
-AB TRAIN is an independent demonstration project. It does not provide official ONCF bookings, live schedules or official fares.
+**A multilingual, browser-based railway journey experience inspired by Morocco.**
 
-**Licensing:** Original AB TRAIN software is licensed under [GNU AGPL v3.0 only](LICENSE); original AB TRAIN branding and separately identified artwork remain **All Rights Reserved**. External photographs, icons, geographic datasets and dependencies retain their own terms. See [Copyright & licensing scope](COPYRIGHT.md) and [Third-party notices](THIRD_PARTY_NOTICES.md). AGPL permits reuse and modification under its conditions, including commercial use; it is not a no-copy license.
+Explore routes, plan a simulated journey, choose a seat and create beautifully presented sample tickets — all through an independent, locally running web application.
 
-## Requirements and setup
+[**🚆 Launch Live Demo**](https://aymanbouanouj.github.io/ab-train-ticket-studio/) · [View Deployment](https://github.com/aymanbouanouj/ab-train-ticket-studio/actions/workflows/deploy-pages.yml) · [Get Started](#quick-start) · [Licensing](#license-and-ownership)
 
-Use Node.js 22.12 or later; Node.js 24 is used for verification. Open a terminal in the project directory:
+[![Build and deploy to GitHub Pages](https://github.com/aymanbouanouj/ab-train-ticket-studio/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/aymanbouanouj/ab-train-ticket-studio/actions/workflows/deploy-pages.yml)
 
-~~~sh
+<sub>Independent demonstration · No real reservations or payments · Not affiliated with ONCF</sub>
+
+</div>
+
+---
+
+## Overview
+
+**AB TRAIN** is an end-to-end *railway booking simulation* designed to bring together product-focused UI engineering, multilingual accessibility, structured geographic data and client-side ticket generation.
+
+Rather than presenting static screens, the project lets visitors explore a complete sample journey — from selecting registered stations to reopening a saved ticket. Its booking rules, schedules, prices and seat availability are **simulated**, not live railway information.
+
+| 🚉 **Stations** | 🌍 **Languages** | 🛤️ **Demo corridors** | 🎟️ **Ticket formats** |
+| :---: | :---: | :---: | :---: |
+| **22** supported station records | **EN · FR · ES · AR** | **4** simulated corridors | **QR · PNG · PDF · Print** |
+
+## Highlights
+
+| Experience | What you can do |
+| --- | --- |
+| **Station-first journey search** | Search both **From** and **To** using the 22 supported stations, multilingual aliases, accent-insensitive matching and keyboard controls. Cities or localities are never presented as bookable stations. |
+| **Simulated routes and connections** | Explore the Atlas, Northern, Coastal and Airport demo corridors, with route validation, explicit connection suggestions and support for next-day arrivals where applicable. |
+| **Booking and seating** | Select a travel date, available simulated service, travel class, coach and seat; complete passenger details and review the resulting sample ticket. |
+| **Ticket studio** | Generate a ticket with a QR code; view it again, export to PNG/PDF or open the print view. Every ticket is a **sample, not valid for travel**. |
+| **Multilingual by design** | Switch between English, French, Spanish and Arabic, including right-to-left layouts for Arabic and localized station labels and messages. |
+| **Responsive, accessible interface** | Use light/dark themes, mobile and desktop layouts, keyboard-operable selectors, focus feedback and reduced-motion preferences. |
+| **Browser-local history** | Reopen saved journeys in the same browser without creating an account or connecting to a booking server. |
+
+## Try the live experience
+
+**[Open AB TRAIN →](https://aymanbouanouj.github.io/ab-train-ticket-studio/)**
+
+1. **Plan** — choose a departure station, destination and travel date.
+2. **Explore** — choose a supported *simulated* journey and class.
+3. **Personalize** — enter a sample passenger name and select an available seat.
+4. **Confirm** — review the ticket's clearly marked demonstration status.
+5. **Keep or export** — revisit it in **My Tickets**, display its QR code, or use PNG/PDF/print.
+
+> [!IMPORTANT]
+> **AB TRAIN is an independent portfolio demonstration.** It is not operated, authorized or endorsed by ONCF. It does **not** sell tickets, take payments, issue valid train reservations, or provide real-time railway availability, schedules or fares.
+
+## Engineering and architecture
+
+Built with **JavaScript (ES modules), HTML, CSS and Vite**, with QR generation and PDF exports performed in the client-side experience.
+
+| Area | Implementation |
+| --- | --- |
+| **Application interface** | `index.html`, `app.js`, and the responsive stylesheets |
+| **Station search and localization** | `src/locations.js`, `src/i18n.js`, `src/i18n/translations.json` |
+| **Journey and booking rules** | `src/booking.js` |
+| **Sample tickets and exports** | `src/ticket.js`, `src/brand.js` |
+| **Saved bookings** | `src/storage.js` with browser-local persistence |
+| **Geographic and station evidence** | The versioned files in `data/`, distinct from the 22-station booking registry |
+| **Public deployment** | Vite build and GitHub Actions → GitHub Pages |
+| **Release output checks** | `scripts/check-publication.mjs` scans the production artifact for specified sensitive patterns and excluded files |
+
+**Design approach:** one independent browser app, explicit demo rules, preserved station identities, language-aware presentation and reusable ticket rendering. There is no backend, live ONCF integration or passenger-account service.
+
+### Repository map
+
+```text
+.
+├── .github/workflows/    # GitHub Pages build and deployment
+├── AB-TRAIN-Logo-Pack/    # Authoritative original brand assets
+├── data/                  # Geographic datasets and station evidence
+├── docs/                  # Provenance and public project documentation
+├── public/                # Runtime branding, images, icons and credits
+├── scripts/               # Maintenance and publication checks
+├── src/                   # Search, booking, localization, storage, tickets
+├── tests/                 # Unit and browser test coverage
+├── app.js                 # Main application entry
+├── index.html             # HTML shell
+├── package.json           # Commands and dependencies
+└── vite.config.js         # Local and GitHub Pages base paths
+```
+
+## Quick start
+
+**Prerequisites:** Node.js **22.12+** and npm. Node.js 24 is used by the GitHub Actions workflow.
+
+```bash
+git clone https://github.com/aymanbouanouj/ab-train-ticket-studio.git
+cd ab-train-ticket-studio
+
 npm ci
 npm run dev
-~~~
+```
 
-Open the local URL printed by Vite, normally http://127.0.0.1:5173. This module-based application needs a local server; opening index.html directly is unsupported.
+Open the development URL printed by Vite (normally `http://127.0.0.1:5173`). Do not open `index.html` directly from the filesystem; the app uses browser ES modules.
 
-~~~sh
+Build and preview the production site locally:
+
+```bash
 npm run build
 npm run preview
-~~~
+```
 
-The production output is generated in dist/. The preview normally uses http://127.0.0.1:4173. Neither command publishes or deploys the site. Different browser origins, including different ports, have separate local ticket histories.
+Vite generates `dist/` for deployment. Local development runs at the site root; the GitHub Pages workflow builds with the repository's `/ab-train-ticket-studio/` base path.
 
-## Booking workflow and coverage
+## Quality, checks and deployment
 
-1. Choose From and To from the existing **22 registered, serviceable passenger-station records**. Opening a selected field or clearing its search displays all 22 in stable registry order. Typing filters only those stations using their names and aliases, including French, Spanish and Arabic names and accent-insensitive matching.
-2. Cities, villages, neighbourhoods and administrative areas are not selectable booking options. A city name may match associated registered stations; an unmatched locality shows a localized No matching stations message. Typed text alone never creates a station or completes a selection.
-3. Select a date, a supported simulated service, travel class, coach and available seat.
-4. Enter passenger details, review, acknowledge the sample-ticket status and confirm.
-5. Reopen saved tickets, show their QR details, download PNG/PDF or print them.
-
-The existing Atlas, Northern, Coastal and Airport corridors use deterministic demo schedules, fares and availability. A selectable station pair is not a promise of a direct service. Explicit connections represent separate simulated bookings. Airport services can arrive on the next day, which is included in their ticket/QR data. No real train is reserved.
-
-The registry is deliberately limited to 22 application records; it is neither a complete nor a live inventory of Moroccan passenger stations. Registry serviceability is based on dated source evidence, not a fresh live-service guarantee.
-
-## Languages, themes and accessibility
-
-English is the default language; French, Spanish and Arabic are supported. Arabic uses RTL where appropriate. Light is the default site theme; light/dark and language preferences persist when browser storage is available. The paper ticket keeps its own appearance in both site themes.
-
-Station selectors retain keyboard ArrowUp/ArrowDown/Enter/Escape behavior, focus indicators and localized screen-reader announcements. The interface supports mobile and desktop layouts and reduced-motion preferences.
-
-## Local privacy and sample tickets
-
-No account, payment information, identity document, email address or phone number is requested by the booking flow. The passenger name and demo booking details are saved in this browser under ab-train-bookings-v1. Language/theme preferences use separate local keys. Clearing browser data can remove ticket history; there is no server backup.
-
-**QR codes, PNG/PDF exports and printouts contain the passenger name and booking details in readable form.** Share them only intentionally and use synthetic names for demonstrations. QR codes are not signed railway credentials. Do not commit browser storage, real passenger tickets, screenshots or exported ticket files.
-
-The application uses locally served assets/data and does not automatically request external runtime services. Owner profile links are intentional external navigation. Public profile configuration lives in src/site-config.js; optional contact fields remain empty unless deliberately configured.
-
-## Architecture and tests
-
-The application uses vanilla ES modules, native HTML/CSS and Vite. Core behavior is in app.js and src/. Geographic source records are separate from station eligibility and booking logic. Ticket generation is shared by preview, PNG, raster PDF and print. Imported public assets are local, including the approved AB TRAIN branding.
-
-~~~sh
-npm test
+```bash
+npm test                    # Unit tests
 npx playwright install chromium
-npm run test:e2e
-~~~
+npm run test:e2e            # Full browser test suite (local)
+```
 
-npm test runs the unit suite. The existing browser suite contains 39 tests across eight specification files. test:e2e builds and starts an isolated local preview; keep port 4173 free. Browser binaries are a separate Playwright prerequisite. Generated results, screenshots and builds are ignored.
+The project has **32 unit tests** and an existing **39-test Playwright suite** covering station selection, booking behavior, keyboard navigation, translations, RTL, themes, saved tickets and export workflows.
 
-The suite covers booking, station search, unsupported routes, seats, persistence, QR decoding, PNG/PDF/print, four languages, RTL, both themes and responsive layouts. The 39-test suite previously passed on the original application; the isolated candidate run was incomplete because of ENOSPC and is not reported as passing. Deployment runs unit tests and a production build; live verification is a limited smoke check. Physical printer devices/dialogs and live railway operations are not tested.
+On deployment, [GitHub Actions](https://github.com/aymanbouanouj/ab-train-ticket-studio/actions/workflows/deploy-pages.yml) performs locked dependency installation, unit tests, a Vite production build and a publication-output privacy scan before deploying `dist/` to GitHub Pages.
 
-## Data provenance and asset notices
+**Verification scope:** the 39-test browser suite passed on the original application before publication; it was **not rerun in full** for the isolated published candidate. The release received additional limited local/live booking smoke checks. PNG/PDF downloads and physical printing were not rechecked as part of that release. A green deployment badge is not a guarantee of complete security or browser compatibility.
 
-See [Geographic data provenance](docs/GEOGRAPHIC-DATA-PROVENANCE.md) for source dates, entity distinctions, attribution and limits.
+## Data, privacy and limitations
 
-- GeoNames populated-place data is attributed and used under CC BY 4.0; the 46,879 retained records are geographic entities, not booking stations.
-- HCP-derived urban classifications and factual source records retain source/page references and modification notices. Raw HCP PDF/workbook downloads are not part of this publication candidate.
-- ONCF source URLs, dates and factual station references are retained; cached timetable PDFs are not redistributed in this candidate and no official ONCF timings or fares are imported into bookings.
-- [Photo credits](public/fidelity/credits.html) and [machine-readable credits](public/fidelity/image-credits.json) retain author, source, license and change notices for the four destination photos.
-- [Social-icon provenance](public/icons/README.md) and the existing [Simple Icons license notice](public/icons/SIMPLE-ICONS-LICENSE.md) remain intact. Copyright licensing does not waive trademark rules.
-- [Brand provenance](public/brand/approved/README.md) documents the authoritative AB TRAIN production assets. Required Logo-Pack production inputs and the canonical master remain included.
+- **Station coverage:** 22 evidence-backed application records are available for booking selection, not a complete national or live station inventory. Geographic records are intentionally **not** bookable locations.
+- **Source data:** geographic reference material is derived from attributed GeoNames and HCP sources; station eligibility references dated ONCF evidence. These data are not a live operational service. See [geographic provenance](docs/GEOGRAPHIC-DATA-PROVENANCE.md).
+- **Local privacy:** language/theme preferences and demo ticket history are stored in the visitor's browser where storage is available. No login, passenger email address, payment details or remote booking account is required.
+- **Shareable tickets:** names and journey details within QR codes, exported PNG/PDF files and printouts are **readable**. Use invented passenger details for demonstrations; there is no server-side ticket backup.
+- **Third-party content:** destination photographs, geographic datasets and external icons have separate rights and notices; the full source and change attribution is documented below.
 
-See [Publication provenance](docs/PUBLICATION-PROVENANCE.md) for the owner assertion covering original AB TRAIN artwork and decorative strips. The third-party Beacons raster is excluded; its profile remains a text link. Third-party photo and icon notices remain applicable.
+## License and ownership
 
-**Software license:** [GNU Affero General Public License v3.0 only (AGPL-3.0-only)](LICENSE) for original software source, tests and build scripts. This is an open-source copyleft license: compliant copying, modification, redistribution and commercial use are allowed. **Separate original brand/logo/artwork rights:** Copyright © 2026 Ayman Bounaouj. All rights reserved; these independent assets are not offered under the software license. See [COPYRIGHT.md](COPYRIGHT.md) for the explicit scope and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for external licenses and attributions. No project-wide relicense of third-party content is implied.
+**Copyright © 2026 Ayman Bounaouj.**
 
-## Included maintenance tools
+| Material | Terms |
+| --- | --- |
+| **Original AB TRAIN software source** | [GNU Affero General Public License v3.0 only (AGPL-3.0-only)](LICENSE) |
+| **Original AB TRAIN logo, brand identity and separate artwork** | **All Rights Reserved** — see [COPYRIGHT.md](COPYRIGHT.md) |
+| **Third-party photographs, datasets, icons and dependencies** | Their **own** licenses and attribution requirements — see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) |
 
-- node scripts/integrate-brand.mjs reproduces approved runtime branding from the included production inputs.
-- node scripts/audit-location-index.mjs writes a local data-audit output from included source records.
-- node scripts/import-geography.mjs refreshes geographic JSON only after separately downloading the GeoNames Morocco dump as data/MA.txt. It must not be run as an automatic publication/build step.
+The **AGPL is an open-source license**: it permits compliant copying, modification, commercial use and redistribution, subject to its obligations, including relevant source-sharing requirements. It does **not** prohibit all reuse of the source code. Separately reserved branding/artwork does not become AGPL-licensed merely by being stored in the same repository.
 
-Data regeneration requires a separate review of sources, entity identity, coverage and privacy. Ordinary install/build/tests do not need raw HCP/ONCF downloads, historical implementation kits, private audit reports or recovery snapshots. Those are intentionally outside this candidate.
+For transparent provenance, see [publication and artwork provenance](docs/PUBLICATION-PROVENANCE.md), [photo credits](public/fidelity/credits.html), [icon notices](public/icons/README.md) and [brand guidelines](AB-TRAIN-Logo-Pack/docs/BRAND-GUIDELINES.md).
+
+## Author and feedback
+
+**Designed and developed by Ayman Bounaouj.**
+
+[GitHub profile](https://github.com/aymanbouanouj) · [Project issues and feedback](https://github.com/aymanbouanouj/ab-train-ticket-studio/issues)
+
+Found an issue or have a suggestion? Open a GitHub issue with steps to reproduce. **Do not include private passenger information, credentials or exported real-person tickets in public issues.**
+
+---
+
+<div align="center">
+  <sub>AB TRAIN · An independent Moroccan railway booking concept · © 2026 Ayman Bounaouj</sub>
+</div>
