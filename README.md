@@ -25,7 +25,7 @@ Explore routes, plan a simulated journey, choose a seat and create beautifully p
 
 Rather than presenting static screens, the project lets visitors explore a complete sample journey — from selecting registered stations to reopening a saved ticket. Its booking rules, schedules, prices and seat availability are **simulated**, not live railway information.
 
-| 🚉 **Stations** | 🌍 **Languages** | 🛤️ **Demo corridors** | 🎟️ **Ticket formats** |
+| **Stations** | **Languages** | **Demo corridors** | **Ticket formats** |
 | :---: | :---: | :---: | :---: |
 | **22** supported station records | **EN · FR · ES · AR** | **4** simulated corridors | **QR · PNG · PDF · Print** |
 
