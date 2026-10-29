@@ -25,7 +25,7 @@ For precise source dates, data transformations, coverage, IDs and links, consult
 
 ## 3. Social icons and brand names
 
-`public/icons/github.svg`, `public/icons/linkedin.svg` and `public/icons/blogger.svg` were sourced from [Simple Icons](https://simpleicons.org/) version 11.15.0. The supplied copyright waiver text is retained in [public/icons/SIMPLE-ICONS-LICENSE.md](public/icons/SIMPLE-ICONS-LICENSE.md) ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)). Individual platform names and marks can also be protected under trademark rules; CC0 does not grant trademark rights.
+`public/icons/github.svg` and `public/icons/linkedin.svg` were sourced from [Simple Icons](https://simpleicons.org/) version 11.15.0. The supplied copyright waiver text is retained in [public/icons/SIMPLE-ICONS-LICENSE.md](public/icons/SIMPLE-ICONS-LICENSE.md) ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)). Individual platform names and marks can also be protected under trademark rules; CC0 does not grant trademark rights.
 
 Beacons appears as a text link only. The Beacons raster mark was expressly **excluded** from the published source and site. Nothing here claims rights to any third-party company name or trademark.
 

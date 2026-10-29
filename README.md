@@ -146,7 +146,7 @@ The project has **32 unit tests** and an existing **39-test Playwright suite** c
 
 On deployment, [GitHub Actions](https://github.com/aymanbouanouj/ab-train-ticket-studio/actions/workflows/deploy-pages.yml) performs locked dependency installation, unit tests, a Vite production build and a publication-output privacy scan before deploying `dist/` to GitHub Pages.
 
-**Verification scope:** the 39-test browser suite passed on the original application before publication; it was **not rerun in full** for the isolated published candidate. The release received additional limited local/live booking smoke checks. PNG/PDF downloads and physical printing were not rechecked as part of that release. A green deployment badge is not a guarantee of complete security or browser compatibility.
+**Verification scope (29 October 2026):** the full **39/39 Playwright browser tests passed** in the test stage of [GitHub Actions run #40956727928](https://github.com/aymanbouanouj/ab-train-ticket-studio/actions/runs/40956727928), including booking, QR, PNG/PDF export and print-flow checks. The overall run was marked **failed only in its later screenshot Git commit step**; its browser-test stage passed. The separate [README screenshot capture run #40957260206](https://github.com/aymanbouanouj/ab-train-ticket-studio/actions/runs/40957260206) subsequently succeeded. The standard PR pipeline runs 32 unit tests, a Vite build and the publication-output check. These checks do not guarantee complete security, physical printer behavior or compatibility with every device.
 
 ## Data, privacy and limitations
 
@@ -174,7 +174,7 @@ For transparent provenance, see [publication and artwork provenance](docs/PUBLIC
 
 **Designed and developed by Ayman Bounaouj.**
 
-[GitHub profile](https://github.com/aymanbouanouj) · [Project issues and feedback](https://github.com/aymanbouanouj/ab-train-ticket-studio/issues)
+[GitHub profile](https://github.com/aymanbouanouj) · [Project issues and feedback](https://github.com/aymanbouanouj/ab-train-ticket-studio/issues) · [Security policy](SECURITY.md)
 
 Found an issue or have a suggestion? Open a GitHub issue with steps to reproduce. **Do not include private passenger information, credentials or exported real-person tickets in public issues.**
 
