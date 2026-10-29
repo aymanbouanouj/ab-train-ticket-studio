@@ -1,5 +1,7 @@
 # AB TRAIN — Ticket Studio
 
+[Live demo](https://aymanbouanouj.github.io/ab-train-ticket-studio/) · [Deployment checks](https://github.com/aymanbouanouj/ab-train-ticket-studio/actions/workflows/deploy-pages.yml)
+
 AB TRAIN is an independent, browser-local railway booking demonstration by Ayman Bounaouj. It is not affiliated with ONCF and does not issue official reservations, take payments or provide live railway prices, schedules or availability. Every exported ticket is clearly marked SAMPLE / NOT VALID FOR TRAVEL in the selected language.
 
 AB TRAIN is an independent demonstration project. It does not provide official ONCF bookings, live schedules or official fares.
