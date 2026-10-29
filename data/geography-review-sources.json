@@ -1,0 +1,24 @@
+{
+  "reviewed": "2026-10-14",
+  "hcp": {
+    "catalog": "https://www.hcp.ma/downloads/RGPH-2024_t22752.html",
+    "tables": "https://www.hcp.ma/file/242342/",
+    "terms": "https://www.hcp.ma/Conditions-generales-d-utilisation-Version-1-0_a2194.html",
+    "scope": "RGPH 2024 legal population by region, province/prefecture and commune; not a list of all named settlements.",
+    "freshness": "Catalog checked on review date. It includes 2026 thematic publications; the legal population tables remain the 2024 census reference. No claim of a newer exhaustive settlement registry.",
+    "reuse": "HCP site terms permit reuse with attribution, integrity, disclosure of modifications and no implied endorsement. Nine municipal records and 20 alias mappings were adapted with source-page references in location-corrections.json."
+  },
+  "oncf": {
+    "destinations": "https://www.oncf.ma/en/Al-boraq/Destinations-and-timetables/Destinations",
+    "frenchDestinations": "https://www.oncf.ma/fr/Al-boraq/Destinations-et-horaires/Destinations",
+    "atlasGuide": "https://www.oncf.ma/am/content/download/37194/850766/file/guide%20al%20atlas%20VF.pdf",
+    "networkReport": "https://www.oncf.ma/fr/content/download/113568/2649466/version/2/file/Rapport%20ONCF%20ESG%20Rassemble%CC%81%202024%20Page%20par%20page%20BD%20%282%29.pdf",
+    "evidence": "Atlas guide (2018), page 5: station-level corridor map, including Rabat Ville, Sidi Yahia and Ain Taoujdat. ESG 2024 page 17: schematic network with city-level Rabat/Casablanca, insufficient to disambiguate their stations. Al Boraq destinations explicitly identifies Casa Voyageurs, Rabat Agdal, Kenitra and Tanger. Sources provide historical geographic context, not validation of current services or simulator timings.",
+    "access": "Direct web-tool fetches timed out; the guide and ESG PDF were successfully downloaded locally and their maps visually inspected. Official destination search-index content was available. No current schedules/prices were imported."
+  },
+  "osm": {
+    "policy": "https://operations.osmfoundation.org/policies/nominatim/",
+    "usage": "Policy examined. No OSM data or public Nominatim autocomplete is used; no ODbL-derived dataset was added."
+  },
+  "presentation": "Station display names are editorial localizations of the existing registry, not additional operator-certified station names. Canonical names/IDs and QR payload remain unchanged. Geographic Arabic names use source aliases only, with source spelling as fallback."
+}

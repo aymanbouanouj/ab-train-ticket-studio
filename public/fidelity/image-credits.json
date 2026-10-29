@@ -1,0 +1,38 @@
+[
+  {
+    "file": "marrakech.jpg",
+    "title": "File:Sunset behind Koutoubia.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset_behind_Koutoubia.jpg",
+    "author": "YassirZek",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Unmodified Wikimedia thumbnail; displayed using CSS cover cropping and a text contrast overlay."
+  },
+  {
+    "file": "fes.jpg",
+    "title": "File:Bab Bou Jeloud-Fez.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bab_Bou_Jeloud-Fez.jpg",
+    "author": "Yair Haklai",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Unmodified Wikimedia thumbnail; displayed using CSS cover cropping and a text contrast overlay."
+  },
+  {
+    "file": "rabat.jpg",
+    "title": "File:Hassan Tower Rabat 2007.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hassan_Tower_Rabat_2007.jpg",
+    "author": "Radosław Botev",
+    "license": "CC BY 3.0 pl",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+    "changes": "Unmodified Wikimedia thumbnail; displayed using CSS cover cropping and a text contrast overlay."
+  },
+  {
+    "file": "tangier.jpg",
+    "title": "File:Panorama Tanger Bay Tangier Marokko.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_Tanger_Bay_Tangier_Marokko.jpg",
+    "author": "Herbert wie",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Unmodified Wikimedia thumbnail; displayed using CSS cover cropping and a text contrast overlay."
+  }
+]

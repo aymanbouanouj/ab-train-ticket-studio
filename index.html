@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#101014" />
+    <meta
+      name="description"
+      content="Explore Moroccan demo train services and create a sample AB TRAIN ticket. Local demo only, not valid for travel."
+    />
+    <title>AB TRAIN — Train Booking & Ticket Studio</title>
+    <script>
+      try {
+        document.documentElement.dataset.theme =
+          localStorage.getItem("ab-train-theme") === "dark" ? "dark" : "light";
+      } catch {
+        document.documentElement.dataset.theme = "light";
+      }
+    </script>
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="AB TRAIN · A personal journey through Morocco"
+    />
+    <meta
+      property="og:description"
+      content="Explore a personal railway booking demonstration by Ayman Bounaouj. Simulated services and sample tickets, not valid for travel."
+    />
+    <meta property="og:image" content="%BASE_URL%brand/approved/og-image-1200x630.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="AB TRAIN independent booking demonstration"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:image"
+      content="%BASE_URL%brand/approved/og-image-1200x630.jpg"
+    />
+    <link rel="icon" href="/brand/approved/favicon.ico?v=4" sizes="any" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/brand/approved/favicon-16.png?v=4"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/brand/approved/favicon-32.png?v=4"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/brand/approved/apple-touch-icon.png?v=4"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="stylesheet" href="/fidelity.css" />
+    <link rel="stylesheet" href="/chrome.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="topbar reference-header">
+      <a class="brand" href="#home" aria-label="AB TRAIN Home"
+        ><span class="brand-lockup"
+          ><picture
+            ><source
+              media="(max-width: 760px)"
+              srcset="/brand/approved/ab-train-compact-dark.png" />
+            <img
+              class="logo-dark"
+              src="/brand/approved/ab-train-horizontal-dark.webp"
+              width="1220"
+              height="280"
+              alt="AB TRAIN" /></picture
+          ><picture
+            ><source
+              media="(max-width: 760px)"
+              srcset="/brand/approved/ab-train-compact-light.png" />
+            <img
+              class="logo-light"
+              src="/brand/approved/ab-train-horizontal-light.webp"
+              width="1220"
+              height="280"
+              alt="AB TRAIN" /></picture
+          ><small id="brand-tagline">Train Booking & Ticket Studio</small></span
+        ></a
+      >
+      <nav id="primary-navigation" aria-label="Main navigation">
+        <a href="#home" id="home-link">Home</a
+        ><a href="#tickets" id="tickets-link"
+          ><span id="tickets-label">My Tickets</span>
+          <span id="ticket-count">0</span></a
+        >
+        <a href="#about" id="about-link">About</a>
+      </nav>
+      <div class="header-controls">
+        <label class="language-control"
+          ><svg
+            class="language-globe"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.7"
+            aria-hidden="true"
+          >
+            <circle cx="12" cy="12" r="9" />
+            <ellipse cx="12" cy="12" rx="4" ry="9" />
+            <path d="M3 12h18" /></svg
+          ><span class="sr-only" id="language-label">Language</span
+          ><select id="language" aria-labelledby="language-label" dir="ltr">
+            <option value="en" lang="en">EN</option>
+            <option value="fr" lang="fr">FR</option>
+            <option value="ar" lang="ar">العربية</option>
+            <option value="es" lang="es">ES</option>
+          </select></label
+        >
+        <button
+          id="theme-toggle"
+          class="theme-toggle"
+          type="button"
+          aria-label="Switch to light mode"
+        ></button>
+        <button
+          id="menu-toggle"
+          class="theme-toggle menu-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="primary-navigation"
+          aria-label="Open navigation"
+        >
+          <svg
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.7"
+            aria-hidden="true"
+          >
+            <path d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+      </div>
+    </header>
+    <main id="main" tabindex="-1"></main>
+    <p id="notice" class="notice" role="status" aria-live="polite"></p>
+    <div id="print-ticket"></div>
+    <footer class="page-footer reference-footer" id="site-footer"></footer>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

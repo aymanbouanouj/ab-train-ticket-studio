@@ -1,0 +1,1 @@
+Assets copied unchanged from AB-TRAIN-IMPLEMENTATION-MASTER-PACK. Train scene is generated illustrative artwork, not a photograph of an actual service. Branding remains exclusively AB-TRAIN-Logo-Pack.

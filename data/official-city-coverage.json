@@ -1,0 +1,15 @@
+{
+  "retrieved": "2026-10-14",
+  "scope": "215 explicitly labelled HCP 2014 municipalities and six arrondissement-based city aggregates, matched by code to RGPH 2024 commune rows. This is a reproducible historic urban-classification scope, not proof of no subsequent reclassification.",
+  "inputCommuneRows": 1503,
+  "classificationMunicipalities": 215,
+  "cityAggregates": 6,
+  "included": 221,
+  "excludedUnclassifiedOrRural": 1282,
+  "unresolved": [],
+  "duplicateIds": 0,
+  "sourceHashes": {
+    "data/hcp-rgph-2024.pdf": "66149a1281afcdc2c5a2c14cbc44a4b87aa4e95217afec2634a4f5df9ccde69a",
+    "data/hcp-urban-reference.xlsx": "e0a7e308c0c1e185e5bec0c080d10635b19e83216d0bf91656554c707bbf0709"
+  }
+}

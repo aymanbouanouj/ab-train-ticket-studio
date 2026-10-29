@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" fill="none">
+  <defs>
+    <pattern id="tile" width="120" height="120" patternUnits="userSpaceOnUse">
+      
+      <g stroke="#8F6BFF" stroke-width="2.2" opacity="0.9" fill="none" stroke-linejoin="round">
+        <polygon points="60,8 72,30 96,24 90,48 112,60 90,72 96,96 72,90 60,112 48,90 24,96 30,72 8,60 30,48 24,24 48,30"/>
+        <polygon points="60,20 70,38 90,34 84,54 102,60 84,66 90,86 70,82 60,100 50,82 30,86 36,66 18,60 36,54 30,34 50,38"/>
+        <polygon points="0,60 18,66 24,86 38,70 60,72 46,60 60,48 38,50 24,34 18,54"/>
+        <polygon points="120,60 102,66 96,86 82,70 60,72 74,60 60,48 82,50 96,34 102,54"/>
+        <polygon points="60,0 66,18 86,24 70,38 72,60 60,46 48,60 50,38 34,24 54,18"/>
+        <polygon points="60,120 66,102 86,96 70,82 72,60 60,74 48,60 50,82 34,96 54,102"/>
+      </g>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#tile)"/>
+</svg>

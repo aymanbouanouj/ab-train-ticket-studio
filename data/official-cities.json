@@ -1,0 +1,5079 @@
+[
+  {
+    "id": "hcp-01.511.01.0",
+    "name": "Tanger",
+    "aliases": [
+      "طنجة"
+    ],
+    "displayNames": {
+      "fr": "Tanger",
+      "ar": "طنجة"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 19,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 19,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.511.01.01",
+    "name": "Assilah",
+    "aliases": [
+      "Assilah",
+      "اصيلة"
+    ],
+    "displayNames": {
+      "fr": "Assilah",
+      "ar": "اصيلة"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 19,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 19,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.511.01.09",
+    "name": "Gueznaia",
+    "aliases": [
+      "Gueznaia",
+      "كزناية"
+    ],
+    "displayNames": {
+      "fr": "Gueznaia",
+      "ar": "كزناية"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 19,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 19,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.573.01.05",
+    "name": "M'diq",
+    "aliases": [
+      "M'Diq",
+      "المضيق"
+    ],
+    "displayNames": {
+      "fr": "M'diq",
+      "ar": "المضيق"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 20,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 20,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.573.01.01",
+    "name": "Fnideq",
+    "aliases": [
+      "Fnideq",
+      "الفنيدق"
+    ],
+    "displayNames": {
+      "fr": "Fnideq",
+      "ar": "الفنيدق"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 20,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 20,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.573.01.03",
+    "name": "Martil",
+    "aliases": [
+      "Martil",
+      "مرتيل"
+    ],
+    "displayNames": {
+      "fr": "Martil",
+      "ar": "مرتيل"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 20,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 20,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.571.01.11",
+    "name": "Tétouan",
+    "aliases": [
+      "Tétouan",
+      "تطوان"
+    ],
+    "displayNames": {
+      "fr": "Tétouan",
+      "ar": "تطوان"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 21,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 21,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.571.01.07",
+    "name": "Oued Laou",
+    "aliases": [
+      "Oued Laou",
+      "واد لو"
+    ],
+    "displayNames": {
+      "fr": "Oued Laou",
+      "ar": "واد لو"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 21,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 21,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.331.01.01",
+    "name": "Ksar El Kebir",
+    "aliases": [
+      "Ksar El Kebir",
+      "القصر الكبير"
+    ],
+    "displayNames": {
+      "fr": "Ksar El Kebir",
+      "ar": "القصر الكبير"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 23,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 23,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.331.01.03",
+    "name": "Larache",
+    "aliases": [
+      "Larache",
+      "العرائش"
+    ],
+    "displayNames": {
+      "fr": "Larache",
+      "ar": "العرائش"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 23,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 23,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.051.01.01",
+    "name": "Al Hoceima",
+    "aliases": [
+      "Al Hoceima",
+      "الحسيمة"
+    ],
+    "displayNames": {
+      "fr": "Al Hoceima",
+      "ar": "الحسيمة"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 24,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 24,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.051.01.03",
+    "name": "Bni Bouayach",
+    "aliases": [
+      "Bni Bouayach",
+      "بني بوعياش"
+    ],
+    "displayNames": {
+      "fr": "Bni Bouayach",
+      "ar": "بني بوعياش"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 24,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 24,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.051.01.05",
+    "name": "Imzouren",
+    "aliases": [
+      "Imzouren",
+      "امزورن"
+    ],
+    "displayNames": {
+      "fr": "Imzouren",
+      "ar": "امزورن"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 24,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 24,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.051.01.07",
+    "name": "Targuist",
+    "aliases": [
+      "Targuist",
+      "تارجيست"
+    ],
+    "displayNames": {
+      "fr": "Targuist",
+      "ar": "تارجيست"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 24,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 24,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.051.01.09",
+    "name": "Ajdir",
+    "aliases": [
+      "Ajdir",
+      "أجدير"
+    ],
+    "displayNames": {
+      "fr": "Ajdir",
+      "ar": "أجدير"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 24,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 24,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.151.01.01",
+    "name": "Chefchaouen",
+    "aliases": [
+      "Chefchaouen",
+      "شفشاون"
+    ],
+    "displayNames": {
+      "fr": "Chefchaouen",
+      "ar": "شفشاون"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 27,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 27,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-01.405.01.09",
+    "name": "Ouezzane",
+    "aliases": [
+      "Ouezzane",
+      "وزان"
+    ],
+    "displayNames": {
+      "fr": "Ouezzane",
+      "ar": "وزان"
+    },
+    "region": "01",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 29,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 29,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.411.01.23",
+    "name": "Oujda",
+    "aliases": [
+      "Oujda",
+      "وجدة"
+    ],
+    "displayNames": {
+      "fr": "Oujda",
+      "ar": "وجدة"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 31,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 31,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.411.01.11",
+    "name": "Bni Drar",
+    "aliases": [
+      "Bni Drar",
+      "بني درار"
+    ],
+    "displayNames": {
+      "fr": "Bni Drar",
+      "ar": "بني درار"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 31,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 31,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.411.01.19",
+    "name": "Naima",
+    "aliases": [
+      "Naima",
+      "النعيمة"
+    ],
+    "displayNames": {
+      "fr": "Naima",
+      "ar": "النعيمة"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 31,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 31,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.381.01.05",
+    "name": "Nador",
+    "aliases": [
+      "Nador",
+      "الناضور"
+    ],
+    "displayNames": {
+      "fr": "Nador",
+      "ar": "الناضور"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 32,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 32,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.381.01.09",
+    "name": "Zeghanghane",
+    "aliases": [
+      "Zeghanghane",
+      "ازغنغان"
+    ],
+    "displayNames": {
+      "fr": "Zeghanghane",
+      "ar": "ازغنغان"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 32,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 32,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.381.01.03",
+    "name": "Bni Ansar",
+    "aliases": [
+      "Bni Ansar",
+      "بني انصار"
+    ],
+    "displayNames": {
+      "fr": "Bni Ansar",
+      "ar": "بني انصار"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 32,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 32,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.381.01.01",
+    "name": "Al Aaroui",
+    "aliases": [
+      "Al Aaroui",
+      "العروي"
+    ],
+    "displayNames": {
+      "fr": "Al Aaroui",
+      "ar": "العروي"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 32,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 32,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.381.01.07",
+    "name": "Zaio",
+    "aliases": [
+      "Zaio",
+      "زايو"
+    ],
+    "displayNames": {
+      "fr": "Zaio",
+      "ar": "زايو"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 32,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 32,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.381.01.19",
+    "name": "Selouane",
+    "aliases": [
+      "Selouane",
+      "سلوان"
+    ],
+    "displayNames": {
+      "fr": "Selouane",
+      "ar": "سلوان"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 32,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 32,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.381.01.15",
+    "name": "Ras-El-Ma",
+    "aliases": [
+      "Ras El Ma",
+      "رأس الماء"
+    ],
+    "displayNames": {
+      "fr": "Ras-El-Ma",
+      "ar": "رأس الماء"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 32,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 32,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.167.01.09",
+    "name": "Driouch",
+    "aliases": [
+      "Driouch",
+      "الدريوش"
+    ],
+    "displayNames": {
+      "fr": "Driouch",
+      "ar": "الدريوش"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 34,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 34,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.167.01.03",
+    "name": "Ben Taieb",
+    "aliases": [
+      "Ben Taieb",
+      "بن الطيب"
+    ],
+    "displayNames": {
+      "fr": "Ben Taieb",
+      "ar": "بن الطيب"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 34,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 34,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.167.01.13",
+    "name": "Midar",
+    "aliases": [
+      "Midar",
+      "ميضار"
+    ],
+    "displayNames": {
+      "fr": "Midar",
+      "ar": "ميضار"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 34,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 34,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.275.01.17",
+    "name": "Jerada",
+    "aliases": [
+      "Jerada",
+      "جرادة"
+    ],
+    "displayNames": {
+      "fr": "Jerada",
+      "ar": "جرادة"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 35,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 35,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.275.01.03",
+    "name": "Ain Bni Mathar",
+    "aliases": [
+      "Ain Bni Mathar",
+      "عين بني مطهر"
+    ],
+    "displayNames": {
+      "fr": "Ain Bni Mathar",
+      "ar": "عين بني مطهر"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 35,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 35,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.275.01.35",
+    "name": "Touissit",
+    "aliases": [
+      "Touissit",
+      "تويسيت"
+    ],
+    "displayNames": {
+      "fr": "Touissit",
+      "ar": "تويسيت"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 35,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 35,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.113.01.09",
+    "name": "Berkane",
+    "aliases": [
+      "Berkane",
+      "بركان"
+    ],
+    "displayNames": {
+      "fr": "Berkane",
+      "ar": "بركان"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 36,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 36,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.113.01.01",
+    "name": "Ahfir",
+    "aliases": [
+      "Ahfir",
+      "احفير"
+    ],
+    "displayNames": {
+      "fr": "Ahfir",
+      "ar": "احفير"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 36,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 36,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.113.01.25",
+    "name": "Saidia",
+    "aliases": [
+      "Saidia",
+      "السعيدية"
+    ],
+    "displayNames": {
+      "fr": "Saidia",
+      "ar": "السعيدية"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 36,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 36,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.113.01.07",
+    "name": "Aklim",
+    "aliases": [
+      "Aklim",
+      "اكليم"
+    ],
+    "displayNames": {
+      "fr": "Aklim",
+      "ar": "اكليم"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 36,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 36,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.113.01.05",
+    "name": "Ain Erreggada",
+    "aliases": [
+      "Ain Erreggada",
+      "عين الركادة"
+    ],
+    "displayNames": {
+      "fr": "Ain Erreggada",
+      "ar": "عين الركادة"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 36,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 36,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.113.01.29",
+    "name": "Sidi Slimane Echcharaa",
+    "aliases": [
+      "Sidi Slimane Echcharraa",
+      "سيدي سليمان - الشراعة"
+    ],
+    "displayNames": {
+      "fr": "Sidi Slimane Echcharaa",
+      "ar": "سيدي سليمان - الشراعة"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 36,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 36,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.533.01.33",
+    "name": "Taourirt",
+    "aliases": [
+      "Taourirt",
+      "تاوريرت"
+    ],
+    "displayNames": {
+      "fr": "Taourirt",
+      "ar": "تاوريرت"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 38,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 38,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.533.01.15",
+    "name": "El Aioun Sidi Mellouk",
+    "aliases": [
+      "El Aioun Sidi Mellouk",
+      "العيون سيدي ملوك"
+    ],
+    "displayNames": {
+      "fr": "El Aioun Sidi Mellouk",
+      "ar": "العيون سيدي ملوك"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 38,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 38,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.533.01.13",
+    "name": "Debdou",
+    "aliases": [
+      "Debdou",
+      "دبدو"
+    ],
+    "displayNames": {
+      "fr": "Debdou",
+      "ar": "دبدو"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 38,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 38,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.265.01.03",
+    "name": "Guercif",
+    "aliases": [
+      "Guercif",
+      "جرسيف"
+    ],
+    "displayNames": {
+      "fr": "Guercif",
+      "ar": "جرسيف"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 39,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 39,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.251.01.03",
+    "name": "Figuig",
+    "aliases": [
+      "Figuig",
+      "فجيج"
+    ],
+    "displayNames": {
+      "fr": "Figuig",
+      "ar": "فجيج"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 40,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 40,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-02.251.01.01",
+    "name": "Bouarfa",
+    "aliases": [
+      "Bouarfa",
+      "بوعرفة"
+    ],
+    "displayNames": {
+      "fr": "Bouarfa",
+      "ar": "بوعرفة"
+    },
+    "region": "02",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 40,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 40,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.231.01.0",
+    "name": "Fès",
+    "aliases": [
+      "فاس"
+    ],
+    "displayNames": {
+      "fr": "Fès",
+      "ar": "فاس"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 41,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 41,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.231.01.03",
+    "name": "Méchouar-Fès-El Jadid",
+    "aliases": [
+      "Méchouar Fès Jdid",
+      "المشور فاس الجديد"
+    ],
+    "displayNames": {
+      "fr": "Méchouar-Fès-El Jadid",
+      "ar": "المشور فاس الجديد"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 41,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 41,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.061.01.01",
+    "name": "Meknès",
+    "aliases": [
+      "Meknès",
+      "مكناس"
+    ],
+    "displayNames": {
+      "fr": "Meknès",
+      "ar": "مكناس"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 42,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 42,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.061.01.03",
+    "name": "Al Machouar-Stinia",
+    "aliases": [
+      "Al Machouar - Stinia",
+      "المشور الستينية"
+    ],
+    "displayNames": {
+      "fr": "Al Machouar-Stinia",
+      "ar": "المشور الستينية"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 42,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 42,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.061.01.09",
+    "name": "My Idriss Zerhoun",
+    "aliases": [
+      "Moulay Driss Zerhoun",
+      "مولاي ادريس زرهون"
+    ],
+    "displayNames": {
+      "fr": "My Idriss Zerhoun",
+      "ar": "مولاي ادريس زرهون"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 42,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 42,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.061.01.11",
+    "name": "Ouislane",
+    "aliases": [
+      "Ouislane",
+      "ويسلان"
+    ],
+    "displayNames": {
+      "fr": "Ouislane",
+      "ar": "ويسلان"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 42,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 42,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.061.01.05",
+    "name": "Boufakrane",
+    "aliases": [
+      "Boufakrane",
+      "بوفكران"
+    ],
+    "displayNames": {
+      "fr": "Boufakrane",
+      "ar": "بوفكران"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 42,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 42,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.061.01.07",
+    "name": "Toulal",
+    "aliases": [
+      "Toulal",
+      "تولال"
+    ],
+    "displayNames": {
+      "fr": "Toulal",
+      "ar": "تولال"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 42,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 42,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.171.01.05",
+    "name": "El Hajeb",
+    "aliases": [
+      "El Hajeb",
+      "الحاجب"
+    ],
+    "displayNames": {
+      "fr": "El Hajeb",
+      "ar": "الحاجب"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 44,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 44,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.171.01.07",
+    "name": "Sabaa Aiyoun",
+    "aliases": [
+      "Sabaa Aiyoun",
+      "سبع عيون"
+    ],
+    "displayNames": {
+      "fr": "Sabaa Aiyoun",
+      "ar": "سبع عيون"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 44,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 44,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.171.01.03",
+    "name": "Ain Taoujdate",
+    "aliases": [
+      "Ain Taoujdate",
+      "عين تاوجطات"
+    ],
+    "displayNames": {
+      "fr": "Ain Taoujdate",
+      "ar": "عين تاوجطات"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 44,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 44,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.171.01.01",
+    "name": "Agourai",
+    "aliases": [
+      "Agourai",
+      "اكوراي"
+    ],
+    "displayNames": {
+      "fr": "Agourai",
+      "ar": "اكوراي"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 44,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 44,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.271.01.01",
+    "name": "Azrou",
+    "aliases": [
+      "Azrou",
+      "ازرو"
+    ],
+    "displayNames": {
+      "fr": "Azrou",
+      "ar": "ازرو"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 45,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 45,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.271.01.03",
+    "name": "Ifrane",
+    "aliases": [
+      "Ifrane",
+      "إفران"
+    ],
+    "displayNames": {
+      "fr": "Ifrane",
+      "ar": "إفران"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 45,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 45,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.591.01.01",
+    "name": "Moulay Yacoub",
+    "aliases": [
+      "Moulay Yacoub",
+      "مولاي يعقوب"
+    ],
+    "displayNames": {
+      "fr": "Moulay Yacoub",
+      "ar": "مولاي يعقوب"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 46,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 46,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.451.01.09",
+    "name": "Sefrou",
+    "aliases": [
+      "Sefrou",
+      "صفرو"
+    ],
+    "displayNames": {
+      "fr": "Sefrou",
+      "ar": "صفرو"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 47,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 47,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.451.01.05",
+    "name": "Immouzzer-Kandar",
+    "aliases": [
+      "Imouzzer Kandar",
+      "إيموزار كندر"
+    ],
+    "displayNames": {
+      "fr": "Immouzzer-Kandar",
+      "ar": "إيموزار كندر"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 47,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 47,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.451.01.01",
+    "name": "Bhalil",
+    "aliases": [
+      "Bhalil",
+      "البهاليل"
+    ],
+    "displayNames": {
+      "fr": "Bhalil",
+      "ar": "البهاليل"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 47,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 47,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.451.01.03",
+    "name": "El Menzel",
+    "aliases": [
+      "El Menzel",
+      "المنزل"
+    ],
+    "displayNames": {
+      "fr": "El Menzel",
+      "ar": "المنزل"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 47,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 47,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.451.01.07",
+    "name": "Ribate El Kheir",
+    "aliases": [
+      "Ribate El Kheir",
+      "رباط الخير"
+    ],
+    "displayNames": {
+      "fr": "Ribate El Kheir",
+      "ar": "رباط الخير"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 47,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 47,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.131.01.01",
+    "name": "Boulemane",
+    "aliases": [
+      "Boulemane",
+      "بولمان"
+    ],
+    "displayNames": {
+      "fr": "Boulemane",
+      "ar": "بولمان"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 49,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 49,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.131.01.03",
+    "name": "Missour",
+    "aliases": [
+      "Missour",
+      "ميسور"
+    ],
+    "displayNames": {
+      "fr": "Missour",
+      "ar": "ميسور"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 49,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 49,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.131.01.05",
+    "name": "Outat El Haj",
+    "aliases": [
+      "Outat El Haj",
+      "أوطاط الحاج"
+    ],
+    "displayNames": {
+      "fr": "Outat El Haj",
+      "ar": "أوطاط الحاج"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 49,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 49,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.131.01.02",
+    "name": "Imouzzer Marmoucha",
+    "aliases": [
+      "Imouzzer Marmoucha",
+      "ايموزار مرموشة"
+    ],
+    "displayNames": {
+      "fr": "Imouzzer Marmoucha",
+      "ar": "ايموزار مرموشة"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 49,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 49,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.531.01.05",
+    "name": "Taounate",
+    "aliases": [
+      "Taounate",
+      "تاونات"
+    ],
+    "displayNames": {
+      "fr": "Taounate",
+      "ar": "تاونات"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 50,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 50,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.531.01.03",
+    "name": "Karia Ba Mohamed",
+    "aliases": [
+      "Karia Ba Mohamed",
+      "قرية با محمد"
+    ],
+    "displayNames": {
+      "fr": "Karia Ba Mohamed",
+      "ar": "قرية با محمد"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 50,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 50,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.531.01.01",
+    "name": "Rhafsai",
+    "aliases": [
+      "Ghafsai",
+      "غفساي"
+    ],
+    "displayNames": {
+      "fr": "Rhafsai",
+      "ar": "غفساي"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 50,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 50,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.531.01.07",
+    "name": "Thar Es-Souk",
+    "aliases": [
+      "Thar Es-souk",
+      "طهر السوق"
+    ],
+    "displayNames": {
+      "fr": "Thar Es-Souk",
+      "ar": "طهر السوق"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 50,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 50,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.531.01.09",
+    "name": "Tissa",
+    "aliases": [
+      "Tissa",
+      "تيسة"
+    ],
+    "displayNames": {
+      "fr": "Tissa",
+      "ar": "تيسة"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 50,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 50,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.561.01.11",
+    "name": "Taza",
+    "aliases": [
+      "Taza",
+      "تازة"
+    ],
+    "displayNames": {
+      "fr": "Taza",
+      "ar": "تازة"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 54,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 54,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.561.01.07",
+    "name": "Tahla",
+    "aliases": [
+      "Tahla",
+      "تاهلة"
+    ],
+    "displayNames": {
+      "fr": "Tahla",
+      "ar": "تاهلة"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 54,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 54,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.561.01.01",
+    "name": "Aknoul",
+    "aliases": [
+      "Aknoul",
+      "اكنول"
+    ],
+    "displayNames": {
+      "fr": "Aknoul",
+      "ar": "اكنول"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 54,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 54,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-03.561.01.05",
+    "name": "Ouad Amlil",
+    "aliases": [
+      "Oued Amlil",
+      "واد امليل"
+    ],
+    "displayNames": {
+      "fr": "Ouad Amlil",
+      "ar": "واد امليل"
+    },
+    "region": "03",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 54,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 54,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.421.01.0",
+    "name": "Rabat",
+    "aliases": [
+      "الرباط"
+    ],
+    "displayNames": {
+      "fr": "Rabat",
+      "ar": "الرباط"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 57,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 57,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.421.01.07",
+    "name": "Touarga",
+    "aliases": [
+      "Touarga",
+      "التواركة"
+    ],
+    "displayNames": {
+      "fr": "Touarga",
+      "ar": "التواركة"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 57,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 57,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.441.01.0",
+    "name": "Salé",
+    "aliases": [
+      "سلا"
+    ],
+    "displayNames": {
+      "fr": "Salé",
+      "ar": "سلا"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 57,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 57,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.441.01.08",
+    "name": "Sidi Bouknadel",
+    "aliases": [
+      "Sidi Bouknadel",
+      "سيدي بوقنادل"
+    ],
+    "displayNames": {
+      "fr": "Sidi Bouknadel",
+      "ar": "سيدي بوقنادل"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 57,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 57,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.501.01.07",
+    "name": "Témara",
+    "aliases": [
+      "Témara",
+      "تمارة"
+    ],
+    "displayNames": {
+      "fr": "Témara",
+      "ar": "تمارة"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 58,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 58,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.501.01.03",
+    "name": "Harhoura",
+    "aliases": [
+      "Harhoura",
+      "الهرهورة"
+    ],
+    "displayNames": {
+      "fr": "Harhoura",
+      "ar": "الهرهورة"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 58,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 58,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.501.01.05",
+    "name": "Skhirate",
+    "aliases": [
+      "Skhirate",
+      "الصخيرات"
+    ],
+    "displayNames": {
+      "fr": "Skhirate",
+      "ar": "الصخيرات"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 58,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 58,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.501.01.01",
+    "name": "Ain El Aouda",
+    "aliases": [
+      "Ain El Aouda",
+      "عين العودة"
+    ],
+    "displayNames": {
+      "fr": "Ain El Aouda",
+      "ar": "عين العودة"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 58,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 58,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.501.01.09",
+    "name": "Ain Attig",
+    "aliases": [
+      "Ain Attig",
+      "عين عتيق"
+    ],
+    "displayNames": {
+      "fr": "Ain Attig",
+      "ar": "عين عتيق"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 58,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 58,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.281.01.01",
+    "name": "Kénitra",
+    "aliases": [
+      "Kénitra",
+      "القنيطرة"
+    ],
+    "displayNames": {
+      "fr": "Kénitra",
+      "ar": "القنيطرة"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 59,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 59,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.281.01.11",
+    "name": "Souk El Arbaa",
+    "aliases": [
+      "Souk El Arbaa",
+      "سوق الاربعاء"
+    ],
+    "displayNames": {
+      "fr": "Souk El Arbaa",
+      "ar": "سوق الاربعاء"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 59,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 59,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.281.01.05",
+    "name": "Mehdya",
+    "aliases": [
+      "Mehdya",
+      "مهدية"
+    ],
+    "displayNames": {
+      "fr": "Mehdya",
+      "ar": "مهدية"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 59,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 59,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.291.01.01",
+    "name": "Khémisset",
+    "aliases": [
+      "Khémisset",
+      "الخميسات"
+    ],
+    "displayNames": {
+      "fr": "Khémisset",
+      "ar": "الخميسات"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 60,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 60,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.291.01.03",
+    "name": "Rommani",
+    "aliases": [
+      "Rommani",
+      "الرماني"
+    ],
+    "displayNames": {
+      "fr": "Rommani",
+      "ar": "الرماني"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 60,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 60,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.291.01.05",
+    "name": "Tiflet",
+    "aliases": [
+      "Tiflet",
+      "تيفلت"
+    ],
+    "displayNames": {
+      "fr": "Tiflet",
+      "ar": "تيفلت"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 60,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 60,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.291.01.17",
+    "name": "Sidi Allal El Bahraoui",
+    "aliases": [
+      "Sidi Allal El Bahraoui",
+      "سيدي علال البحراوي"
+    ],
+    "displayNames": {
+      "fr": "Sidi Allal El Bahraoui",
+      "ar": "سيدي علال البحراوي"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 60,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 60,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.481.01.11",
+    "name": "Sidi Kacem",
+    "aliases": [
+      "Sidi Kacem",
+      "سيدي قاسم"
+    ],
+    "displayNames": {
+      "fr": "Sidi Kacem",
+      "ar": "سيدي قاسم"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 63,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 63,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.481.01.07",
+    "name": "Mechraa Bel Ksiri",
+    "aliases": [
+      "Mechraa Bel Ksiri",
+      "مشرع بلقصيري"
+    ],
+    "displayNames": {
+      "fr": "Mechraa Bel Ksiri",
+      "ar": "مشرع بلقصيري"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 63,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 63,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.481.01.03",
+    "name": "Had Kourt",
+    "aliases": [
+      "Had Kourt",
+      "احد كورت"
+    ],
+    "displayNames": {
+      "fr": "Had Kourt",
+      "ar": "احد كورت"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 63,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 63,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.481.01.05",
+    "name": "Jorf El Melha",
+    "aliases": [
+      "Jorf El Melha",
+      "جرف الملحة"
+    ],
+    "displayNames": {
+      "fr": "Jorf El Melha",
+      "ar": "جرف الملحة"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 63,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 63,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.481.01.01",
+    "name": "Dar Gueddari",
+    "aliases": [
+      "Dar Gueddari",
+      "دار الكداري"
+    ],
+    "displayNames": {
+      "fr": "Dar Gueddari",
+      "ar": "دار الكداري"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 63,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 63,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.491.01.07",
+    "name": "Sidi Slimane",
+    "aliases": [
+      "Sidi Slimane",
+      "سيدي سليمان"
+    ],
+    "displayNames": {
+      "fr": "Sidi Slimane",
+      "ar": "سيدي سليمان"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 65,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 65,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-04.491.01.09",
+    "name": "Sidi Yahia El Gharb",
+    "aliases": [
+      "Sidi Yahya El Gharb",
+      "سيدي يحيى الغرب"
+    ],
+    "displayNames": {
+      "fr": "Sidi Yahia El Gharb",
+      "ar": "سيدي يحيى الغرب"
+    },
+    "region": "04",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 65,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 65,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.091.01.01",
+    "name": "Béni Mellal",
+    "aliases": [
+      "Béni Mellal",
+      "بني ملال"
+    ],
+    "displayNames": {
+      "fr": "Béni Mellal",
+      "ar": "بني ملال"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 66,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 66,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.091.01.07",
+    "name": "Kasba Tadla",
+    "aliases": [
+      "Kasba Tadla",
+      "قصبة تادلة"
+    ],
+    "displayNames": {
+      "fr": "Kasba Tadla",
+      "ar": "قصبة تادلة"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 66,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 66,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.091.01.13",
+    "name": "Zaouiat Cheikh",
+    "aliases": [
+      "Zaouiat Cheikh",
+      "زاوية الشيخ"
+    ],
+    "displayNames": {
+      "fr": "Zaouiat Cheikh",
+      "ar": "زاوية الشيخ"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 66,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 66,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.091.01.03",
+    "name": "El Ksiba",
+    "aliases": [
+      "El Ksiba",
+      "القصيبة"
+    ],
+    "displayNames": {
+      "fr": "El Ksiba",
+      "ar": "القصيبة"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 66,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 66,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.081.01.01",
+    "name": "Azilal",
+    "aliases": [
+      "Azilal",
+      "أزيلال"
+    ],
+    "displayNames": {
+      "fr": "Azilal",
+      "ar": "أزيلال"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 67,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 67,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.081.01.03",
+    "name": "Demnate",
+    "aliases": [
+      "Demnate",
+      "دمنات"
+    ],
+    "displayNames": {
+      "fr": "Demnate",
+      "ar": "دمنات"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 67,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 67,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.255.01.05",
+    "name": "Fquih Ben Salah",
+    "aliases": [
+      "Fquih Ben Salah",
+      "الفقيه بن صالح"
+    ],
+    "displayNames": {
+      "fr": "Fquih Ben Salah",
+      "ar": "الفقيه بن صالح"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 71,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 71,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.255.01.11",
+    "name": "Souk Sebt Ouled Nemma",
+    "aliases": [
+      "Souk Sebt Ouled Nemma",
+      "سوق السبت أولاد النمة"
+    ],
+    "displayNames": {
+      "fr": "Souk Sebt Ouled Nemma",
+      "ar": "سوق السبت أولاد النمة"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 71,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 71,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.255.01.09",
+    "name": "Ouled Ayad",
+    "aliases": [
+      "Ouled Ayad",
+      "أولاد عياد"
+    ],
+    "displayNames": {
+      "fr": "Ouled Ayad",
+      "ar": "أولاد عياد"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 71,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 71,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.301.01.01",
+    "name": "Khenifra",
+    "aliases": [
+      "Khenifra",
+      "خنيفرة"
+    ],
+    "displayNames": {
+      "fr": "Khenifra",
+      "ar": "خنيفرة"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 72,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 72,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.301.01.05",
+    "name": "M'rirt",
+    "aliases": [
+      "M'Rirt",
+      "مريرت"
+    ],
+    "displayNames": {
+      "fr": "M'rirt",
+      "ar": "مريرت"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 72,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 72,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.311.01.07",
+    "name": "Khouribga",
+    "aliases": [
+      "Khouribga",
+      "خريبكة"
+    ],
+    "displayNames": {
+      "fr": "Khouribga",
+      "ar": "خريبكة"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 74,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 74,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.311.01.09",
+    "name": "Oued Zem",
+    "aliases": [
+      "Oued Zem",
+      "وادي زم"
+    ],
+    "displayNames": {
+      "fr": "Oued Zem",
+      "ar": "وادي زم"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 74,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 74,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.311.01.01",
+    "name": "Bejaad",
+    "aliases": [
+      "Bejaad",
+      "ابي الجعد"
+    ],
+    "displayNames": {
+      "fr": "Bejaad",
+      "ar": "ابي الجعد"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 74,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 74,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.311.01.03",
+    "name": "Boujniba",
+    "aliases": [
+      "Boujniba",
+      "بوجنيبة"
+    ],
+    "displayNames": {
+      "fr": "Boujniba",
+      "ar": "بوجنيبة"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 74,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 74,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-05.311.01.05",
+    "name": "Hattane",
+    "aliases": [
+      "Hattane",
+      "حطان"
+    ],
+    "displayNames": {
+      "fr": "Hattane",
+      "ar": "حطان"
+    },
+    "region": "05",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 74,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 74,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.141.01.0",
+    "name": "Casablanca",
+    "aliases": [
+      "الدار البيضاء"
+    ],
+    "displayNames": {
+      "fr": "Casablanca",
+      "ar": "الدار البيضاء"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 76,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 76,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.141.01.81",
+    "name": "Méchouar de Casablanca",
+    "aliases": [
+      "Mechouar de Casablanca",
+      "المشور الدار البيضاء"
+    ],
+    "displayNames": {
+      "fr": "Méchouar de Casablanca",
+      "ar": "المشور الدار البيضاء"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 77,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 77,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.371.01.01",
+    "name": "Mohammadia",
+    "aliases": [
+      "Mohammadia",
+      "المحمدية"
+    ],
+    "displayNames": {
+      "fr": "Mohammadia",
+      "ar": "المحمدية"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 77,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 77,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.371.01.03",
+    "name": "Ain Harrouda",
+    "aliases": [
+      "Ain Harrouda",
+      "عين حرودة"
+    ],
+    "displayNames": {
+      "fr": "Ain Harrouda",
+      "ar": "عين حرودة"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 77,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 77,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.181.01.03",
+    "name": "El Jadida",
+    "aliases": [
+      "El Jadida",
+      "الجديدة"
+    ],
+    "displayNames": {
+      "fr": "El Jadida",
+      "ar": "الجديدة"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 78,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 78,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.181.01.01",
+    "name": "Azemmour",
+    "aliases": [
+      "Azemmour",
+      "أزمور"
+    ],
+    "displayNames": {
+      "fr": "Azemmour",
+      "ar": "أزمور"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 78,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 78,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.181.01.05",
+    "name": "Lbir Jdid",
+    "aliases": [
+      "Lbir Jdid",
+      "لبير الجديد"
+    ],
+    "displayNames": {
+      "fr": "Lbir Jdid",
+      "ar": "لبير الجديد"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 78,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 78,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.385.01.03",
+    "name": "Nouaceur",
+    "aliases": [
+      "Nouaceur",
+      "النواصر"
+    ],
+    "displayNames": {
+      "fr": "Nouaceur",
+      "ar": "النواصر"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 81,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 81,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.385.01.01",
+    "name": "Bouskoura",
+    "aliases": [
+      "Bouskoura",
+      "بوسكورة"
+    ],
+    "displayNames": {
+      "fr": "Bouskoura",
+      "ar": "بوسكورة"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 81,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 81,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.385.01.02",
+    "name": "Dar Bouazza",
+    "aliases": [
+      "Dar Bouazza",
+      "دار بوعزة"
+    ],
+    "displayNames": {
+      "fr": "Dar Bouazza",
+      "ar": "دار بوعزة"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 81,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 81,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.355.01.05",
+    "name": "Tit Mellil",
+    "aliases": [
+      "Tit Mellil",
+      "تيط مليل"
+    ],
+    "displayNames": {
+      "fr": "Tit Mellil",
+      "ar": "تيط مليل"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 81,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 81,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.355.01.03",
+    "name": "Mediouna",
+    "aliases": [
+      "Mediouna",
+      "مديونة"
+    ],
+    "displayNames": {
+      "fr": "Mediouna",
+      "ar": "مديونة"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 81,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 81,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.355.01.01",
+    "name": "Lahraouyine",
+    "aliases": [
+      "Lahraouyine",
+      "الهراويين"
+    ],
+    "displayNames": {
+      "fr": "Lahraouyine",
+      "ar": "الهراويين"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 81,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 81,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.111.01.01",
+    "name": "Benslimane",
+    "aliases": [
+      "Benslimane",
+      "بنسليمان"
+    ],
+    "displayNames": {
+      "fr": "Benslimane",
+      "ar": "بنسليمان"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 82,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 82,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.111.01.03",
+    "name": "Bouznika",
+    "aliases": [
+      "Bouznika",
+      "بوزنيقة"
+    ],
+    "displayNames": {
+      "fr": "Bouznika",
+      "ar": "بوزنيقة"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 82,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 82,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.111.01.05",
+    "name": "El Mansouria",
+    "aliases": [
+      "El Mansouria",
+      "المنصورية"
+    ],
+    "displayNames": {
+      "fr": "El Mansouria",
+      "ar": "المنصورية"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 82,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 82,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.117.01.03",
+    "name": "Berrechid",
+    "aliases": [
+      "Berrechid",
+      "برشيد"
+    ],
+    "displayNames": {
+      "fr": "Berrechid",
+      "ar": "برشيد"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 83,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 83,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.117.01.07",
+    "name": "El Gara",
+    "aliases": [
+      "El Gara",
+      "الكارة"
+    ],
+    "displayNames": {
+      "fr": "El Gara",
+      "ar": "الكارة"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 83,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 83,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.117.01.11",
+    "name": "Oulad Abbou",
+    "aliases": [
+      "Oulad Abbou",
+      "اولاد عبو"
+    ],
+    "displayNames": {
+      "fr": "Oulad Abbou",
+      "ar": "اولاد عبو"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 83,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 83,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.117.01.13",
+    "name": "Sidi Rahal Chatai",
+    "aliases": [
+      "Sidi Rahal Chatai",
+      "سيدي رحال الشاطئ"
+    ],
+    "displayNames": {
+      "fr": "Sidi Rahal Chatai",
+      "ar": "سيدي رحال الشاطئ"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 83,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 83,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.117.01.09",
+    "name": "Had Soualem",
+    "aliases": [
+      "Had Soualem",
+      "حد السوالم"
+    ],
+    "displayNames": {
+      "fr": "Had Soualem",
+      "ar": "حد السوالم"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 83,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 83,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.117.01.05",
+    "name": "Deroua",
+    "aliases": [
+      "Deroua",
+      "الدروة"
+    ],
+    "displayNames": {
+      "fr": "Deroua",
+      "ar": "الدروة"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 83,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 83,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.461.01.15",
+    "name": "Settat",
+    "aliases": [
+      "Settat",
+      "سطات"
+    ],
+    "displayNames": {
+      "fr": "Settat",
+      "ar": "سطات"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 85,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 85,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.461.01.01",
+    "name": "Ben Ahmed",
+    "aliases": [
+      "Ben Ahmed",
+      "بن أحمد"
+    ],
+    "displayNames": {
+      "fr": "Ben Ahmed",
+      "ar": "بن أحمد"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 85,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 85,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.461.01.09",
+    "name": "Loulad",
+    "aliases": [
+      "Loulad",
+      "لولاد"
+    ],
+    "displayNames": {
+      "fr": "Loulad",
+      "ar": "لولاد"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 85,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 85,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.461.01.13",
+    "name": "Oulad M'rah",
+    "aliases": [
+      "Oulad M'Rah",
+      "اولاد امراح"
+    ],
+    "displayNames": {
+      "fr": "Oulad M'rah",
+      "ar": "اولاد امراح"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 85,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 85,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.461.01.05",
+    "name": "El Borouj",
+    "aliases": [
+      "El Borouj",
+      "البروج"
+    ],
+    "displayNames": {
+      "fr": "El Borouj",
+      "ar": "البروج"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 85,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 85,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.467.01.07",
+    "name": "Sidi Bennour",
+    "aliases": [
+      "Sidi Bennour",
+      "سيدي بنور"
+    ],
+    "displayNames": {
+      "fr": "Sidi Bennour",
+      "ar": "سيدي بنور"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 88,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 88,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-06.467.01.09",
+    "name": "Zmamra",
+    "aliases": [
+      "Zemamra",
+      "زمامرة"
+    ],
+    "displayNames": {
+      "fr": "Zmamra",
+      "ar": "زمامرة"
+    },
+    "region": "06",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 88,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 88,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.351.01.0",
+    "name": "Marrakech",
+    "aliases": [
+      "مراكش"
+    ],
+    "displayNames": {
+      "fr": "Marrakech",
+      "ar": "مراكش"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 90,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 90,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.351.01.01",
+    "name": "Méchouar-Kasba",
+    "aliases": [
+      "Méchouar-Kasba",
+      "المشور-القصبة"
+    ],
+    "displayNames": {
+      "fr": "Méchouar-Kasba",
+      "ar": "المشور-القصبة"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 90,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 90,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.161.01.01",
+    "name": "Chichaoua",
+    "aliases": [
+      "Chichaoua",
+      "شيشاوة"
+    ],
+    "displayNames": {
+      "fr": "Chichaoua",
+      "ar": "شيشاوة"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 92,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 92,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.161.01.03",
+    "name": "Imintanoute",
+    "aliases": [
+      "Imintanoute",
+      "امنتانوت"
+    ],
+    "displayNames": {
+      "fr": "Imintanoute",
+      "ar": "امنتانوت"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 92,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 92,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.041.01.01",
+    "name": "Ait Ourir",
+    "aliases": [
+      "Ait Ourir",
+      "أيت أورير"
+    ],
+    "displayNames": {
+      "fr": "Ait Ourir",
+      "ar": "أيت أورير"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 95,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 95,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.041.01.03",
+    "name": "Amizmiz",
+    "aliases": [
+      "Amizmiz",
+      "أمزميز"
+    ],
+    "displayNames": {
+      "fr": "Amizmiz",
+      "ar": "أمزميز"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 95,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 95,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.041.01.09",
+    "name": "Tahannaout",
+    "aliases": [
+      "Tahannaout",
+      "تحناوت"
+    ],
+    "displayNames": {
+      "fr": "Tahannaout",
+      "ar": "تحناوت"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 95,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 95,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.191.01.03",
+    "name": "Kelâat Sraghna",
+    "aliases": [
+      "El Kelaâ des Sraghna",
+      "قلعة السراغنة"
+    ],
+    "displayNames": {
+      "fr": "Kelâat Sraghna",
+      "ar": "قلعة السراغنة"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 98,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 98,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.191.01.05",
+    "name": "Laattaouia",
+    "aliases": [
+      "Laattaouia",
+      "العطاوية"
+    ],
+    "displayNames": {
+      "fr": "Laattaouia",
+      "ar": "العطاوية"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 98,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 98,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.191.01.07",
+    "name": "Sidi Rahal",
+    "aliases": [
+      "Sidi Rahhal",
+      "سيدي رحال"
+    ],
+    "displayNames": {
+      "fr": "Sidi Rahal",
+      "ar": "سيدي رحال"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 98,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 98,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.191.01.09",
+    "name": "Tamallalt",
+    "aliases": [
+      "Tamallalt",
+      "تملالت"
+    ],
+    "displayNames": {
+      "fr": "Tamallalt",
+      "ar": "تملالت"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 98,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 98,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.211.01.05",
+    "name": "Essaouira",
+    "aliases": [
+      "Essaouira",
+      "الصويرة"
+    ],
+    "displayNames": {
+      "fr": "Essaouira",
+      "ar": "الصويرة"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 101,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 101,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.211.01.03",
+    "name": "El Hanchane",
+    "aliases": [
+      "El Hanchane",
+      "الحنشان"
+    ],
+    "displayNames": {
+      "fr": "El Hanchane",
+      "ar": "الحنشان"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 101,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 101,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.211.01.07",
+    "name": "Talmest",
+    "aliases": [
+      "Talmest",
+      "تالمست"
+    ],
+    "displayNames": {
+      "fr": "Talmest",
+      "ar": "تالمست"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 101,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 101,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.211.01.01",
+    "name": "Ait Daoud",
+    "aliases": [
+      "Ait Daoud",
+      "أيت داوود"
+    ],
+    "displayNames": {
+      "fr": "Ait Daoud",
+      "ar": "أيت داوود"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 101,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 101,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.211.01.09",
+    "name": "Tamanar",
+    "aliases": [
+      "Tamanar",
+      "تمنار"
+    ],
+    "displayNames": {
+      "fr": "Tamanar",
+      "ar": "تمنار"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 101,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 101,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.427.01.01",
+    "name": "Ben Guerir",
+    "aliases": [
+      "Ben Guerir",
+      "ابن جرير"
+    ],
+    "displayNames": {
+      "fr": "Ben Guerir",
+      "ar": "ابن جرير"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 105,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 105,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.427.01.17",
+    "name": "Sidi Bou Othmane",
+    "aliases": [
+      "Sidi Bou Othmane",
+      "سيدي بوعثمان"
+    ],
+    "displayNames": {
+      "fr": "Sidi Bou Othmane",
+      "ar": "سيدي بوعثمان"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 105,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 105,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.431.01.03",
+    "name": "Safi",
+    "aliases": [
+      "Safi",
+      "آسفي"
+    ],
+    "displayNames": {
+      "fr": "Safi",
+      "ar": "آسفي"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 107,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 107,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.431.01.09",
+    "name": "Jamaat Shaim",
+    "aliases": [
+      "Jamaat Shaim",
+      "جماعة سحيم"
+    ],
+    "displayNames": {
+      "fr": "Jamaat Shaim",
+      "ar": "جماعة سحيم"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 107,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 107,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.431.01.11",
+    "name": "Sebt Gzoula",
+    "aliases": [
+      "Sebt Gzoula",
+      "سبت كزولة"
+    ],
+    "displayNames": {
+      "fr": "Sebt Gzoula",
+      "ar": "سبت كزولة"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 107,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 107,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.585.01.13",
+    "name": "Youssoufia",
+    "aliases": [
+      "Youssoufia",
+      "اليوسفية"
+    ],
+    "displayNames": {
+      "fr": "Youssoufia",
+      "ar": "اليوسفية"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 109,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 109,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-07.585.01.07",
+    "name": "Echemmaia",
+    "aliases": [
+      "Echemmaia",
+      "الشماعية"
+    ],
+    "displayNames": {
+      "fr": "Echemmaia",
+      "ar": "الشماعية"
+    },
+    "region": "07",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 109,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 109,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.201.01.05",
+    "name": "Errachidia",
+    "aliases": [
+      "Errachidia",
+      "الرشيدية"
+    ],
+    "displayNames": {
+      "fr": "Errachidia",
+      "ar": "الرشيدية"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 110,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 110,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.201.01.01",
+    "name": "Arfoud",
+    "aliases": [
+      "Arfoud",
+      "ارفود"
+    ],
+    "displayNames": {
+      "fr": "Arfoud",
+      "ar": "ارفود"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 110,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 110,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.201.01.09",
+    "name": "Goulmima",
+    "aliases": [
+      "Goulmima",
+      "كلميمة"
+    ],
+    "displayNames": {
+      "fr": "Goulmima",
+      "ar": "كلميمة"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 110,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 110,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.201.01.11",
+    "name": "Jorf",
+    "aliases": [
+      "Jorf",
+      "الجرف"
+    ],
+    "displayNames": {
+      "fr": "Jorf",
+      "ar": "الجرف"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 110,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 110,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.201.01.13",
+    "name": "Moulay Ali Cherif",
+    "aliases": [
+      "Moulay Ali Cherif",
+      "مولاي علي الشريف"
+    ],
+    "displayNames": {
+      "fr": "Moulay Ali Cherif",
+      "ar": "مولاي علي الشريف"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 110,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 110,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.201.01.03",
+    "name": "Boudnib",
+    "aliases": [
+      "Boudnib",
+      "بوذنيب"
+    ],
+    "displayNames": {
+      "fr": "Boudnib",
+      "ar": "بوذنيب"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 110,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 110,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.201.01.15",
+    "name": "Tinejdad",
+    "aliases": [
+      "Tinejdad",
+      "تنجداد"
+    ],
+    "displayNames": {
+      "fr": "Tinejdad",
+      "ar": "تنجداد"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 110,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 110,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.401.01.07",
+    "name": "Ouarzazate",
+    "aliases": [
+      "Ouarzazate",
+      "ورزازات"
+    ],
+    "displayNames": {
+      "fr": "Ouarzazate",
+      "ar": "ورزازات"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 112,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 112,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.401.01.09",
+    "name": "Taznakht",
+    "aliases": [
+      "Taznakht",
+      "تازناخت"
+    ],
+    "displayNames": {
+      "fr": "Taznakht",
+      "ar": "تازناخت"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 112,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 112,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.363.01.03",
+    "name": "Midelt",
+    "aliases": [
+      "Midelt",
+      "ميدلت"
+    ],
+    "displayNames": {
+      "fr": "Midelt",
+      "ar": "ميدلت"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 113,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 113,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.363.01.07",
+    "name": "Er-Rich",
+    "aliases": [
+      "Er-rich",
+      "الريش"
+    ],
+    "displayNames": {
+      "fr": "Er-Rich",
+      "ar": "الريش"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 113,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 113,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.577.01.11",
+    "name": "Tinghir",
+    "aliases": [
+      "Tinghir",
+      "تنغير"
+    ],
+    "displayNames": {
+      "fr": "Tinghir",
+      "ar": "تنغير"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 115,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 115,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.577.01.03",
+    "name": "Boumalne-Dades",
+    "aliases": [
+      "Boumalne Dades",
+      "بو مالن دادس"
+    ],
+    "displayNames": {
+      "fr": "Boumalne-Dades",
+      "ar": "بو مالن دادس"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 115,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 115,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.577.01.05",
+    "name": "Kalâat M'gouna",
+    "aliases": [
+      "Kalaat M'Gouna",
+      "قلعة مكونة"
+    ],
+    "displayNames": {
+      "fr": "Kalâat M'gouna",
+      "ar": "قلعة مكونة"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 115,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 115,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.587.01.13",
+    "name": "Zagora",
+    "aliases": [
+      "Zagora",
+      "زاكورة"
+    ],
+    "displayNames": {
+      "fr": "Zagora",
+      "ar": "زاكورة"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 117,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 117,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-08.587.01.01",
+    "name": "Agdz",
+    "aliases": [
+      "Agdz",
+      "اكدز"
+    ],
+    "displayNames": {
+      "fr": "Agdz",
+      "ar": "اكدز"
+    },
+    "region": "08",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 117,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 117,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.001.01.01",
+    "name": "Agadir",
+    "aliases": [
+      "Agadir",
+      "اكادير"
+    ],
+    "displayNames": {
+      "fr": "Agadir",
+      "ar": "اكادير"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 119,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 119,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.273.01.15",
+    "name": "Inezgane",
+    "aliases": [
+      "Inezgane",
+      "انزكان"
+    ],
+    "displayNames": {
+      "fr": "Inezgane",
+      "ar": "انزكان"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 120,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 120,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.273.01.05",
+    "name": "Ait Melloul",
+    "aliases": [
+      "Ait Melloul",
+      "أيت ملول"
+    ],
+    "displayNames": {
+      "fr": "Ait Melloul",
+      "ar": "أيت ملول"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 120,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 120,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.273.01.13",
+    "name": "Dcheira El Jihadia",
+    "aliases": [
+      "Dcheira El Jihadia",
+      "الدشيرة الجهادية"
+    ],
+    "displayNames": {
+      "fr": "Dcheira El Jihadia",
+      "ar": "الدشيرة الجهادية"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 120,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 120,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.273.01.17",
+    "name": "Lqliaa",
+    "aliases": [
+      "Lqliaa",
+      "القليعة"
+    ],
+    "displayNames": {
+      "fr": "Lqliaa",
+      "ar": "القليعة"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 120,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 120,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.163.01.03",
+    "name": "Ait Baha",
+    "aliases": [
+      "Ait Baha",
+      "أيت باها"
+    ],
+    "displayNames": {
+      "fr": "Ait Baha",
+      "ar": "أيت باها"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 120,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 120,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.163.01.11",
+    "name": "Biougra",
+    "aliases": [
+      "Biougra",
+      "بيوكرة"
+    ],
+    "displayNames": {
+      "fr": "Biougra",
+      "ar": "بيوكرة"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 120,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 120,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.541.01.13",
+    "name": "Taroudannt",
+    "aliases": [
+      "Taroudannt",
+      "تارودانت"
+    ],
+    "displayNames": {
+      "fr": "Taroudannt",
+      "ar": "تارودانت"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 122,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 122,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.541.01.09",
+    "name": "Oulad Teima",
+    "aliases": [
+      "Oulad Teima",
+      "أولاد تايمة"
+    ],
+    "displayNames": {
+      "fr": "Oulad Teima",
+      "ar": "أولاد تايمة"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 122,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 122,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.541.01.05",
+    "name": "Irherm",
+    "aliases": [
+      "Irherm",
+      "ايغرم"
+    ],
+    "displayNames": {
+      "fr": "Irherm",
+      "ar": "ايغرم"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 122,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 122,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.541.01.03",
+    "name": "El Guerdane",
+    "aliases": [
+      "El Guerdane",
+      "الكردان"
+    ],
+    "displayNames": {
+      "fr": "El Guerdane",
+      "ar": "الكردان"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 122,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 122,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.541.01.01",
+    "name": "Ait Iaaza",
+    "aliases": [
+      "Ait Iaaza",
+      "أيت ايعزة"
+    ],
+    "displayNames": {
+      "fr": "Ait Iaaza",
+      "ar": "أيت ايعزة"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 122,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 122,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.541.01.07",
+    "name": "Oulad Berhil",
+    "aliases": [
+      "Oulad Berhil",
+      "أولاد برحيل"
+    ],
+    "displayNames": {
+      "fr": "Oulad Berhil",
+      "ar": "أولاد برحيل"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 122,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 122,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.541.01.11",
+    "name": "Taliouine",
+    "aliases": [
+      "Taliouine",
+      "تالوين"
+    ],
+    "displayNames": {
+      "fr": "Taliouine",
+      "ar": "تالوين"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 122,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 122,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.541.01.02",
+    "name": "Aoulouz",
+    "aliases": [
+      "Aoulouz",
+      "أولوز"
+    ],
+    "displayNames": {
+      "fr": "Aoulouz",
+      "ar": "أولوز"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 122,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 122,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.581.01.07",
+    "name": "Tiznit",
+    "aliases": [
+      "Tiznit",
+      "تزنيت"
+    ],
+    "displayNames": {
+      "fr": "Tiznit",
+      "ar": "تزنيت"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 129,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 129,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.581.01.05",
+    "name": "Tafraout",
+    "aliases": [
+      "Tafraout",
+      "تافراوت"
+    ],
+    "displayNames": {
+      "fr": "Tafraout",
+      "ar": "تافراوت"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 129,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 129,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.551.01.07",
+    "name": "Tata",
+    "aliases": [
+      "Tata",
+      "طاطا"
+    ],
+    "displayNames": {
+      "fr": "Tata",
+      "ar": "طاطا"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 130,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 130,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.551.01.01",
+    "name": "Akka",
+    "aliases": [
+      "Akka",
+      "اقا"
+    ],
+    "displayNames": {
+      "fr": "Akka",
+      "ar": "اقا"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 130,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 130,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.551.01.03",
+    "name": "Fam El Hisn",
+    "aliases": [
+      "Fam El Hisn",
+      "فم الحصن"
+    ],
+    "displayNames": {
+      "fr": "Fam El Hisn",
+      "ar": "فم الحصن"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 130,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 130,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-09.551.01.05",
+    "name": "Foum Zguid",
+    "aliases": [
+      "Foum Zguid",
+      "فم  زكيد"
+    ],
+    "displayNames": {
+      "fr": "Foum Zguid",
+      "ar": "فم  زكيد"
+    },
+    "region": "09",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 130,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 130,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-10.261.01.03",
+    "name": "Guelmim",
+    "aliases": [
+      "Guelmim",
+      "كلميم"
+    ],
+    "displayNames": {
+      "fr": "Guelmim",
+      "ar": "كلميم"
+    },
+    "region": "10",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 132,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 132,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-10.261.01.01",
+    "name": "Bouizakarne",
+    "aliases": [
+      "Bouizakarne",
+      "بويز كارن"
+    ],
+    "displayNames": {
+      "fr": "Bouizakarne",
+      "ar": "بويز كارن"
+    },
+    "region": "10",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 132,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 132,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-10.071.01.01",
+    "name": "Assa",
+    "aliases": [
+      "Assa",
+      "أسا"
+    ],
+    "displayNames": {
+      "fr": "Assa",
+      "ar": "أسا"
+    },
+    "region": "10",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 133,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 133,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-10.071.01.03",
+    "name": "Zag",
+    "aliases": [
+      "Zag",
+      "الزاك"
+    ],
+    "displayNames": {
+      "fr": "Zag",
+      "ar": "الزاك"
+    },
+    "region": "10",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 133,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 133,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-10.521.01.01",
+    "name": "Tan-Tan",
+    "aliases": [
+      "Tan Tan",
+      "طانطان"
+    ],
+    "displayNames": {
+      "fr": "Tan-Tan",
+      "ar": "طانطان"
+    },
+    "region": "10",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 134,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 134,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-10.521.01.03",
+    "name": "El Ouatia",
+    "aliases": [
+      "El Ouatia",
+      "الوطية"
+    ],
+    "displayNames": {
+      "fr": "El Ouatia",
+      "ar": "الوطية"
+    },
+    "region": "10",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 134,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 134,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-10.473.01.03",
+    "name": "Sidi Ifni",
+    "aliases": [
+      "Sidi Ifni",
+      "سيدي إفني"
+    ],
+    "displayNames": {
+      "fr": "Sidi Ifni",
+      "ar": "سيدي إفني"
+    },
+    "region": "10",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 134,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 134,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-10.473.01.01",
+    "name": "Lakhsas",
+    "aliases": [
+      "Lakhsas",
+      "الاخصاص"
+    ],
+    "displayNames": {
+      "fr": "Lakhsas",
+      "ar": "الاخصاص"
+    },
+    "region": "10",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 134,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 134,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-11.321.01.03",
+    "name": "Laâyoune",
+    "aliases": [
+      "Laayoune",
+      "العيون"
+    ],
+    "displayNames": {
+      "fr": "Laâyoune",
+      "ar": "العيون"
+    },
+    "region": "11",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 136,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 136,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-11.321.01.01",
+    "name": "El Marsa",
+    "aliases": [
+      "El Marsa",
+      "المرسى"
+    ],
+    "displayNames": {
+      "fr": "El Marsa",
+      "ar": "المرسى"
+    },
+    "region": "11",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 136,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 136,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-11.121.01.01",
+    "name": "Boujdour",
+    "aliases": [
+      "Boujdour",
+      "بوجدور"
+    ],
+    "displayNames": {
+      "fr": "Boujdour",
+      "ar": "بوجدور"
+    },
+    "region": "11",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 136,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 136,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-11.537.01.05",
+    "name": "Tarfaya",
+    "aliases": [
+      "Tarfaya",
+      "طرفاية"
+    ],
+    "displayNames": {
+      "fr": "Tarfaya",
+      "ar": "طرفاية"
+    },
+    "region": "11",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 137,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 137,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-11.221.01.01",
+    "name": "Es-Semara",
+    "aliases": [
+      "Es-semara",
+      "السمارة"
+    ],
+    "displayNames": {
+      "fr": "Es-Semara",
+      "ar": "السمارة"
+    },
+    "region": "11",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 137,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 137,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-12.391.01.01",
+    "name": "Dakhla",
+    "aliases": [
+      "Dakhla",
+      "الداخلة"
+    ],
+    "displayNames": {
+      "fr": "Dakhla",
+      "ar": "الداخلة"
+    },
+    "region": "12",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 138,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 138,
+      "retrieved": "2026-10-14"
+    }
+  },
+  {
+    "id": "hcp-12.066.01.03",
+    "name": "Lagouira*",
+    "aliases": [
+      "Lagouira",
+      "الكويرة"
+    ],
+    "displayNames": {
+      "fr": "Lagouira*",
+      "ar": "الكويرة"
+    },
+    "region": "12",
+    "type": "urban_commune",
+    "entityType": "Municipality",
+    "sourcePage": 138,
+    "provenance": {
+      "source": "HCP RGPH 2024 / municipal classification RGPH 2014",
+      "url": "https://www.hcp.ma/file/242342/",
+      "classificationUrl": "https://www.rgph2014.hcp.ma/file/166326/",
+      "page": 138,
+      "retrieved": "2026-10-14"
+    }
+  }
+]

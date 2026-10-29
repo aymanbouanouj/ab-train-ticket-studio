@@ -1,0 +1,51 @@
+[
+  {
+    "key": "atlas",
+    "url": "https://www.oncf.ma/content/download/134018/3128442/file/Marrakech%20-%20F%C3%A8s.pdf",
+    "effective": "2026-09-14",
+    "retrieved": "2026-10-14",
+    "pages": [
+      1,
+      2
+    ],
+    "sha256": "fd62c85195c8426ed0edf65ce12e02a974d7650b537e61e94acfcb95b60a4d99",
+    "pageCount": 2,
+    "effectiveDateTextFound": true
+  },
+  {
+    "key": "coast",
+    "url": "https://www.oncf.ma/content/download/134013/3128427/file/Casa%20-%20K%C3%A9nitra%20phase%202.pdf",
+    "effective": "2026-09-14",
+    "retrieved": "2026-10-14",
+    "pages": [
+      1
+    ],
+    "sha256": "f50b8fd5e7da1f075d336d8b7b5b08a47e3866ddd7d852cd551a48fd23607e3f",
+    "pageCount": 1,
+    "effectiveDateTextFound": true
+  },
+  {
+    "key": "north",
+    "url": "https://www.oncf.ma/content/download/134021/3128451/file/Tanger%20-%20Kenitra.pdf",
+    "effective": "2026-09-14",
+    "retrieved": "2026-10-14",
+    "pages": [
+      1
+    ],
+    "sha256": "5554ae3ebf22c76920ee42e999eba7d5e1d8af5517e9d8b3d9cff565d18b0ca8",
+    "pageCount": 1,
+    "effectiveDateTextFound": true
+  },
+  {
+    "key": "airport",
+    "url": "https://www.oncf.ma/content/download/134011/3128421/file/Casa%20-%20A%C3%A9roport%20phase%202.pdf",
+    "effective": "2026-09-14",
+    "retrieved": "2026-10-14",
+    "pages": [
+      1
+    ],
+    "sha256": "cccc20f34fc5dc3d5bb3862e29008f68224f91e83d9eb6de0bf10980763a0c61",
+    "pageCount": 1,
+    "effectiveDateTextFound": true
+  }
+]

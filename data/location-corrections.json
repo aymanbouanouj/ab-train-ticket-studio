@@ -1,0 +1,257 @@
+{
+  "source": "HCP RGPH 2024 — population légale",
+  "url": "https://www.hcp.ma/file/242342/",
+  "reviewed": "2026-10-14",
+  "note": "Geographic commune entries, not stations. Urban classification is supplied separately by official-cities.json; a commune alone is not necessarily a city.",
+  "places": [
+    {
+      "id": "hcp-01.573.01.09",
+      "name": "Belyounech",
+      "aliases": [
+        "Belyounes",
+        "بليونش"
+      ],
+      "region": "01",
+      "area": "M'diq-Fnideq",
+      "entityType": "Commune",
+      "sourcePage": 20
+    },
+    {
+      "id": "hcp-02.381.01.03",
+      "name": "Bni Ansar",
+      "aliases": [
+        "Beni Ansar",
+        "Beni Ensar",
+        "بني أنصار"
+      ],
+      "region": "02",
+      "area": "Nador",
+      "entityType": "Municipality",
+      "sourcePage": 32
+    },
+    {
+      "id": "hcp-11.321.01.03",
+      "name": "Laâyoune",
+      "aliases": [
+        "Laayoune",
+        "El Aaiun",
+        "العيون"
+      ],
+      "region": "11",
+      "area": "Laâyoune",
+      "entityType": "Municipality",
+      "sourcePage": 136
+    },
+    {
+      "id": "hcp-11.121.01.01",
+      "name": "Boujdour",
+      "aliases": [
+        "بوجدور"
+      ],
+      "region": "11",
+      "area": "Boujdour",
+      "entityType": "Municipality",
+      "sourcePage": 136
+    },
+    {
+      "id": "hcp-12.391.01.01",
+      "name": "Dakhla",
+      "aliases": [
+        "Ad Dakhla",
+        "الداخلة"
+      ],
+      "region": "12",
+      "area": "Oued Ed-Dahab",
+      "entityType": "Municipality",
+      "sourcePage": 138
+    },
+    {
+      "id": "hcp-07.585.01.07",
+      "name": "Echemmaia",
+      "aliases": [
+        "Chemaia"
+      ],
+      "region": "07",
+      "area": "Youssoufia",
+      "entityType": "Municipality",
+      "sourcePage": 109
+    },
+    {
+      "id": "hcp-09.163.01.01",
+      "name": "Ait Amira",
+      "aliases": [
+        "Aït Amira"
+      ],
+      "region": "09",
+      "area": "Chtouka-Ait Baha",
+      "entityType": "Commune",
+      "sourcePage": 120
+    },
+    {
+      "id": "hcp-09.541.01.01",
+      "name": "Ait Iaaza",
+      "aliases": [
+        "Aït Iaaza",
+        "Ait Iazza"
+      ],
+      "region": "09",
+      "area": "Taroudant",
+      "entityType": "Municipality",
+      "sourcePage": 122
+    },
+    {
+      "id": "hcp-09.541.01.07",
+      "name": "Oulad Berhil",
+      "aliases": [
+        "Ouled Berhil"
+      ],
+      "region": "09",
+      "area": "Taroudant",
+      "entityType": "Municipality",
+      "sourcePage": 122
+    }
+  ],
+  "aliases": [
+    {
+      "id": "geo-2555009",
+      "names": [
+        "Boudnib"
+      ],
+      "sourcePage": 110
+    },
+    {
+      "id": "geo-2526359",
+      "names": [
+        "Zaouiat Cheikh"
+      ],
+      "sourcePage": 66
+    },
+    {
+      "id": "geo-2533182",
+      "names": [
+        "Sidi Rahal Chatai"
+      ],
+      "sourcePage": 83
+    },
+    {
+      "id": "geo-2541805",
+      "names": [
+        "My Idriss Zerhoun",
+        "Moulay Idriss Zerhoun"
+      ],
+      "sourcePage": 42
+    },
+    {
+      "id": "geo-2596460",
+      "names": [
+        "Ribate El Kheir"
+      ],
+      "sourcePage": 47
+    },
+    {
+      "id": "geo-2550162",
+      "names": [
+        "Harhoura"
+      ],
+      "sourcePage": 58
+    },
+    {
+      "id": "geo-2532412",
+      "names": [
+        "Souk Sebt Ouled Nemma"
+      ],
+      "sourcePage": 71
+    },
+    {
+      "id": "geo-2545069",
+      "names": [
+        "M'rirt"
+      ],
+      "sourcePage": 72
+    },
+    {
+      "id": "geo-2555342",
+      "names": [
+        "Lbir Jdid"
+      ],
+      "sourcePage": 78
+    },
+    {
+      "id": "geo-2541068",
+      "names": [
+        "Loualidia"
+      ],
+      "sourcePage": 88
+    },
+    {
+      "id": "geo-2549979",
+      "names": [
+        "Kelâat Sraghna"
+      ],
+      "sourcePage": 98
+    },
+    {
+      "id": "geo-2549981",
+      "names": [
+        "Kalâat M'gouna"
+      ],
+      "sourcePage": 115
+    },
+    {
+      "id": "geo-2554594",
+      "names": [
+        "Bouizakarne"
+      ],
+      "sourcePage": 132
+    },
+    {
+      "id": "geo-2560922",
+      "names": [
+        "Ain Bni Mathar"
+      ],
+      "sourcePage": 35
+    },
+    {
+      "id": "geo-2546028",
+      "names": [
+        "Immouzzer-Kandar"
+      ],
+      "sourcePage": 47
+    },
+    {
+      "id": "geo-2540716",
+      "names": [
+        "Ouad Amlil"
+      ],
+      "sourcePage": 54
+    },
+    {
+      "id": "geo-7798457",
+      "names": [
+        "Imintanoute"
+      ],
+      "sourcePage": 92
+    },
+    {
+      "id": "geo-2549150",
+      "names": [
+        "El Hanchane"
+      ],
+      "sourcePage": 101
+    },
+    {
+      "id": "geo-2538059",
+      "names": [
+        "Er-Rich"
+      ],
+      "sourcePage": 113
+    },
+    {
+      "id": "geo-2531453",
+      "names": [
+        "Thar Es-Souk"
+      ],
+      "sourcePage": 50
+    }
+  ]
+}

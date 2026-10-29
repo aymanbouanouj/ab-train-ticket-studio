@@ -1,0 +1,134 @@
+{
+  "marrakech": {
+    "fr": "Marrakech",
+    "ar": "مراكش",
+    "es": "Marrakech",
+    "region": "07"
+  },
+  "benguerir": {
+    "fr": "Benguerir",
+    "ar": "ابن جرير",
+    "es": "Benguerir",
+    "region": "07"
+  },
+  "settat": {
+    "fr": "Settat",
+    "ar": "سطات",
+    "es": "Settat",
+    "region": "06"
+  },
+  "berrechid": {
+    "fr": "Berrechid",
+    "ar": "برشيد",
+    "es": "Berrechid",
+    "region": "06"
+  },
+  "oasis": {
+    "fr": "Casa Oasis",
+    "ar": "الدار البيضاء الوازيس",
+    "es": "Casablanca Oasis",
+    "region": "06"
+  },
+  "casa-voyageurs": {
+    "fr": "Casa Voyageurs",
+    "ar": "الدار البيضاء المسافرين",
+    "es": "Casablanca Voyageurs",
+    "region": "06"
+  },
+  "casa-port": {
+    "fr": "Casa Port",
+    "ar": "الدار البيضاء الميناء",
+    "es": "Casablanca Port",
+    "region": "06"
+  },
+  "ain-sebaa": {
+    "fr": "Aïn Sebaâ",
+    "ar": "عين السبع",
+    "es": "Ain Sebaa",
+    "region": "06"
+  },
+  "mohammedia": {
+    "fr": "Mohammedia",
+    "ar": "المحمدية",
+    "es": "Mohammedia",
+    "region": "06"
+  },
+  "rabat-agdal": {
+    "fr": "Rabat Agdal",
+    "ar": "الرباط أكدال",
+    "es": "Rabat Agdal",
+    "region": "04"
+  },
+  "rabat-ville": {
+    "fr": "Rabat Ville",
+    "ar": "الرباط المدينة",
+    "es": "Rabat Ville",
+    "region": "04"
+  },
+  "sale": {
+    "fr": "Salé Ville",
+    "ar": "سلا المدينة",
+    "es": "Salé Ville",
+    "region": "04"
+  },
+  "kenitra": {
+    "fr": "Kénitra",
+    "ar": "القنيطرة",
+    "es": "Kenitra",
+    "region": "04"
+  },
+  "sidi-yahia": {
+    "fr": "Sidi Yahia",
+    "ar": "سيدي يحيى",
+    "es": "Sidi Yahia",
+    "region": "04"
+  },
+  "sidi-slimane": {
+    "fr": "Sidi Slimane",
+    "ar": "سيدي سليمان",
+    "es": "Sidi Slimane",
+    "region": "04"
+  },
+  "sidi-kacem": {
+    "fr": "Sidi Kacem",
+    "ar": "سيدي قاسم",
+    "es": "Sidi Kacem",
+    "region": "04"
+  },
+  "meknes": {
+    "fr": "Meknès",
+    "ar": "مكناس",
+    "es": "Meknés",
+    "region": "03"
+  },
+  "ain-taoujdat": {
+    "fr": "Aïn Taoujdate",
+    "ar": "عين تاوجطات",
+    "es": "Ain Taoujdat",
+    "region": "03"
+  },
+  "fes": {
+    "fr": "Fès",
+    "ar": "فاس",
+    "es": "Fez",
+    "region": "03"
+  },
+  "tangier": {
+    "fr": "Tanger Ville",
+    "ar": "طنجة المدينة",
+    "es": "Tánger Ville",
+    "region": "01"
+  },
+  "bouskoura": {
+    "fr": "Bouskoura",
+    "ar": "بوسكورة",
+    "es": "Bouskoura",
+    "region": "06"
+  },
+  "mohammed-v-airport": {
+    "fr": "Aéroport Mohammed V",
+    "ar": "مطار محمد الخامس",
+    "es": "Aeropuerto Mohammed V",
+    "region": "06"
+  }
+}

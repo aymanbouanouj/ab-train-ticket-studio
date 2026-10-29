@@ -1,0 +1,216 @@
+{
+  "reviewed": "2026-10-27",
+  "scope": "22 passenger stations evidenced by cached ONCF timetables effective 2026-09-14, retrieved 2026-10-14. Not a current exhaustive inventory. Refresh attempts on 2026-10-27 failed.",
+  "sources": {
+    "atlas": {
+      "url": "https://www.oncf.ma/content/download/134018/3128442/file/Marrakech%20-%20F%C3%A8s.pdf",
+      "effective": "2026-09-14",
+      "retrieved": "2026-10-14",
+      "pages": [1, 2]
+    },
+    "coast": {
+      "url": "https://www.oncf.ma/content/download/134013/3128427/file/Casa%20-%20K%C3%A9nitra%20phase%202.pdf",
+      "effective": "2026-09-14",
+      "retrieved": "2026-10-14",
+      "pages": [1]
+    },
+    "north": {
+      "url": "https://www.oncf.ma/content/download/134021/3128451/file/Tanger%20-%20Kenitra.pdf",
+      "effective": "2026-09-14",
+      "retrieved": "2026-10-14",
+      "pages": [1]
+    },
+    "airport": {
+      "url": "https://www.oncf.ma/content/download/134011/3128421/file/Casa%20-%20A%C3%A9roport%20phase%202.pdf",
+      "effective": "2026-09-14",
+      "retrieved": "2026-10-14",
+      "pages": [1]
+    }
+  },
+  "links": [
+    {
+      "stationId": "marrakech",
+      "cityId": "hcp-07.351.01.0",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "benguerir",
+      "cityId": "hcp-07.427.01.01",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "settat",
+      "cityId": "hcp-06.461.01.15",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "berrechid",
+      "cityId": "hcp-06.117.01.03",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "oasis",
+      "cityId": "hcp-06.141.01.0",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "casa-voyageurs",
+      "cityId": "hcp-06.141.01.0",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "casa-port",
+      "cityId": "hcp-06.141.01.0",
+      "passengerServiceStatus": "verified",
+      "source": "coast",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "ain-sebaa",
+      "cityId": "hcp-06.141.01.0",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "mohammedia",
+      "cityId": "hcp-06.371.01.01",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "rabat-agdal",
+      "cityId": "hcp-04.421.01.0",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "rabat-ville",
+      "cityId": "hcp-04.421.01.0",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "sale",
+      "cityId": "hcp-04.441.01.0",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "kenitra",
+      "cityId": "hcp-04.281.01.01",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "sidi-yahia",
+      "cityId": "hcp-04.491.01.09",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "sidi-slimane",
+      "cityId": "hcp-04.491.01.07",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "sidi-kacem",
+      "cityId": "hcp-04.481.01.11",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "meknes",
+      "cityId": "hcp-03.061.01.01",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "ain-taoujdat",
+      "cityId": "hcp-03.171.01.03",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "fes",
+      "cityId": "hcp-03.231.01.0",
+      "passengerServiceStatus": "verified",
+      "source": "atlas",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "tangier",
+      "cityId": "hcp-01.511.01.0",
+      "passengerServiceStatus": "verified",
+      "source": "north",
+      "mappingBasis": "Named city/urban commune; station identities retained separately. No proximity transfers inferred."
+    },
+    {
+      "stationId": "bouskoura",
+      "cityId": null,
+      "passengerServiceStatus": "verified",
+      "source": "airport",
+      "mappingBasis": "Station explicitly named in timetable columns. No urban-commune identity or proximity transfer inferred."
+    },
+    {
+      "stationId": "mohammed-v-airport",
+      "cityId": null,
+      "passengerServiceStatus": "verified",
+      "source": "airport",
+      "mappingBasis": "Station explicitly named in timetable columns. No urban-commune identity or proximity transfer inferred."
+    }
+  ],
+  "nameSources": {
+    "french": "Current ONCF timetables; spelling variants retained as aliases. Canonical booking names are unchanged.",
+    "arabicCities": "HCP municipal Arabic names; see official-cities.json.",
+    "arabicCoastal": "https://www.oncf.ma/content/download/134013/3128427/file/Casa%20-%20K%C3%A9nitra%20phase%202.pdf",
+    "arabicCasablanca": "https://www.oncf.ma/content/download/134011/3128421/file/Casa%20-%20A%C3%A9roport%20phase%202.pdf",
+    "arabicTangier": "https://www.oncf.ma/fr/content/download/46345/1062817/file/Tanger-Meknes-Fes-Oujda%20%20RAMADAN%202019.pdf",
+    "note": "Historical sources establish spelling only; passenger eligibility uses current 2026 evidence. English/Spanish established exonyms are presentation aliases, not official station translations."
+  },
+  "observedNotInventoried": {
+    "atlas": ["Bouskoura", "Salé Tabriquet", "Meknès Amir", "Sebâa Aioun"],
+    "coast": ["Bouznika", "Skhirat", "Témara", "Rabat Riad", "Salé Tabriquet"],
+    "north": [
+      "Dar El Gueddari",
+      "Oulad Khtib",
+      "Mechrâa Bel Ksiri",
+      "Souk El Arbâa",
+      "Karia Ben Aouda",
+      "Arbaoua",
+      "El Ksar El Kebir",
+      "Oued Al Makhazine",
+      "Tleta Rissana",
+      "Tnine Sidi Lyamani",
+      "Asilah",
+      "Dalia",
+      "Al Akba L’hamra",
+      "Lala Yto"
+    ],
+    "airport": ["Bouskoura", "Aéroport Med V"]
+  },
+  "observedNotInventoriedNote": "Names observed in selected timetable headings, not an exhaustive list and not independently validated for selectable demo stations, city association or stopping times. No routes added for these names."
+}

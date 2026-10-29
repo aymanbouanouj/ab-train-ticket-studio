@@ -1,0 +1,10 @@
+{
+  "source": "GeoNames",
+  "url": "https://download.geonames.org/export/dump/MA.zip",
+  "license": "CC BY 4.0",
+  "retrieved": "2026-10-14",
+  "countryCode": "MA",
+  "count": 46879,
+  "filter": "All feature-class P records except abandoned, historical and destroyed settlements. No population threshold.",
+  "limitation": "Community-maintained geographic gazetteer, not an official government commune register; completeness is not guaranteed. Country attribution follows GeoNames. Railway stations are curated separately."
+}
