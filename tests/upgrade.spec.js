@@ -28,7 +28,9 @@ test("Navigation disclosure, footer assets and translated layouts across require
               ),
             ),
         ).toBe(true);
-        expect(await page.locator("footer .social-mark").count()).toBe(4);
+        // Only GitHub and LinkedIn have local raster/SVG brand marks;
+        // Beacons is an accessible text link and Blog was intentionally removed.
+        expect(await page.locator("footer .social-mark").count()).toBe(2);
         const controls = await page
           .locator(".header-controls select, .header-controls button:visible")
           .evaluateAll((els) =>
@@ -77,13 +79,11 @@ test("Navigation disclosure, footer assets and translated layouts across require
   expect(
     (await page.request.get("/brand/approved/zellige-divider.svg")).ok(),
   ).toBe(true);
-  for (const name of [
-    "github.svg",
-    "linkedin.svg",
-    "blogger.svg",
-    "beacons.png",
-  ])
+  for (const name of ["github.svg", "linkedin.svg"])
     expect((await page.request.get(`/icons/${name}`)).ok()).toBe(true);
+  // The third-party Beacons raster is deliberately excluded from publication.
+  expect((await page.request.get("/icons/beacons.png")).status()).toBe(404);
+  await expect(page.locator('footer a[href*="blogspot"]')).toHaveCount(0);
   await page.setViewportSize({ width: 390, height: 844 });
   await page.locator("#menu-toggle").click();
   await page.locator("#about-link").click();

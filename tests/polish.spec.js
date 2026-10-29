@@ -46,7 +46,9 @@ test("Approved brand assets, contacts, responsive themes and Arabic layouts", as
   }
   await page.locator("#language").selectOption("en");
   const links = page.locator("footer a[target='_blank']");
-  expect(await links.count()).toBe(4);
+  // The public footer intentionally omits Blog while retaining GitHub, LinkedIn and Beacons.
+  await expect(links).toHaveCount(3);
+  await expect(page.locator('footer a[href*="blogspot"]')).toHaveCount(0);
   for (const link of await links.all())
     expect(await link.getAttribute("rel")).toBe("noopener noreferrer");
   await expect(page.locator('footer a[href^="mailto:"]')).toHaveCount(0);

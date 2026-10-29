@@ -1,4 +1,4 @@
-# One-time release verification and documentary screenshots.
+# Release verification rerun: stale footer assertions and async booking completion fixed.
 # Runs when this workflow file is first added/changed; otherwise manual only.
 # Captured images are real Playwright screenshots of synthetic, local demo test runs.
 name: Release browser verification and README screenshots

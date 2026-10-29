@@ -43,6 +43,8 @@ test("Overnight airport booking survives reload and exports next-day QR in all l
   await page
     .getByRole("button", { name: "Confirm Booking", exact: true })
     .click();
+  // Confirmation is asynchronous when the browser provides navigator.locks.
+  await expect(page.getByRole("heading", { name: "Your ticket is ready" })).toBeVisible();
   const saved = await page.evaluate(
     () => JSON.parse(localStorage.getItem("ab-train-bookings-v1"))[0],
   );
