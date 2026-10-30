@@ -41,6 +41,14 @@ Rather than presenting static screens, the project lets visitors explore a compl
 | **Responsive, accessible interface** | Use light/dark themes, mobile and desktop layouts, keyboard-operable selectors, focus feedback and reduced-motion preferences. |
 | **Browser-local history** | Reopen saved journeys in the same browser without creating an account or connecting to a booking server. |
 
+## Video demonstration
+
+Watch a walkthrough of the **AB TRAIN** independent booking simulation on YouTube. Select the thumbnail below to open the video.
+
+[![Watch the AB TRAIN video demonstration on YouTube](https://i.ytimg.com/vi/bsqgZCgqiTc/maxresdefault.jpg)](https://youtu.be/bsqgZCgqiTc)
+
+[**Watch the AB TRAIN demonstration on YouTube**](https://youtu.be/bsqgZCgqiTc)
+
 ## Screenshots
 
 Authentic screenshots captured by Playwright against a local production build using **synthetic demo data**.
